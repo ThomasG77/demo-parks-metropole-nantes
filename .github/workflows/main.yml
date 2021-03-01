@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '45 18 * * *'
+    - cron:  '47 18 * * *'
 
 jobs:
   scheduled:
@@ -16,8 +16,6 @@ jobs:
       run: |
         chmod +x ./umap.sh
         ./umap.sh
-        chmod +x ./count.sh
-        ./count.sh
       shell: bash
     - name: Commit and push if it changed
       run: |-
