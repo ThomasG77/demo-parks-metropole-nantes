@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2021-03-03T18:58:44Z",
-    "timestamp_areas_base": "2021-03-03T17:49:22Z",
+    "timestamp_osm_base": "2021-03-04T18:55:01Z",
+    "timestamp_areas_base": "2021-03-04T18:37:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3354,7 +3354,6 @@
     882498492,
     882501011,
     882501715,
-    882492538,
     882497810,
     1213263757
   ],
@@ -10180,7 +10179,9 @@
   "tags": {
     "leisure": "park",
     "name": "Square Augustin Fresnel",
-    "opening_hours": "24/7"
+    "name:br": "Skwar Augustin Fresnel",
+    "opening_hours": "24/7",
+    "source:name:br": "proper translation"
   }
 },
 {
@@ -48190,12 +48191,6 @@
   "id": 652575286,
   "lat": 47.2027003,
   "lon": -1.5467055
-},
-{
-  "type": "node",
-  "id": 882492538,
-  "lat": 47.2048602,
-  "lon": -1.5500028
 },
 {
   "type": "node",

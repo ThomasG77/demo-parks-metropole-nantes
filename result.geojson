@@ -15763,10 +15763,6 @@
           47.20493
         ],
         [
-          -1.5500028,
-          47.2048602
-        ],
-        [
           -1.5499532,
           47.2047714
         ],
@@ -37488,7 +37484,9 @@
   "properties": {
     "leisure": "park",
     "name": "Square Augustin Fresnel",
+    "name:br": "Skwar Augustin Fresnel",
     "opening_hours": "24/7",
+    "source:name:br": "proper translation",
     "id": "way/560753607"
   },
   "geometry": {
