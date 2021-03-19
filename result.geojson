@@ -32163,6 +32163,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Abbé Derideau",
+    "name:br": "Skwar an Abad Derideau",
+    "source:name:br": "proper translation",
     "id": "way/391968111"
   },
   "geometry": {

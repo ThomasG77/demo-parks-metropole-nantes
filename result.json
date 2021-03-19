@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-03-18T18:58:12Z",
-    "timestamp_areas_base": "2021-03-18T17:52:26Z",
+    "timestamp_osm_base": "2021-03-19T18:54:13Z",
+    "timestamp_areas_base": "2021-03-19T18:42:08Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8530,7 +8530,9 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Abbé Derideau"
+    "name": "Square Abbé Derideau",
+    "name:br": "Skwar an Abad Derideau",
+    "source:name:br": "proper translation"
   }
 },
 {
