@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-06-10T19:13:12Z",
-    "timestamp_areas_base": "2021-06-10T18:06:52Z",
+    "timestamp_osm_base": "2021-06-11T18:59:39Z",
+    "timestamp_areas_base": "2021-06-11T18:44:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -12507,6 +12507,21 @@
     "access": "private",
     "leisure": "park",
     "name": "Parc de Chavagnes"
+  }
+},
+{
+  "type": "way",
+  "id": 953550608,
+  "nodes": [
+    8825814895,
+    8825814896,
+    8825814897,
+    8825814898,
+    8825814899,
+    8825814895
+  ],
+  "tags": {
+    "leisure": "park"
   }
 },
 {
@@ -64716,6 +64731,36 @@
   "id": 7453754194,
   "lat": 47.2713745,
   "lon": -1.5225626
+},
+{
+  "type": "node",
+  "id": 8825814895,
+  "lat": 47.2869042,
+  "lon": -1.5508767
+},
+{
+  "type": "node",
+  "id": 8825814896,
+  "lat": 47.2867609,
+  "lon": -1.5515463
+},
+{
+  "type": "node",
+  "id": 8825814897,
+  "lat": 47.2866318,
+  "lon": -1.5516375
+},
+{
+  "type": "node",
+  "id": 8825814898,
+  "lat": 47.2863943,
+  "lon": -1.5515356
+},
+{
+  "type": "node",
+  "id": 8825814899,
+  "lat": 47.2865572,
+  "lon": -1.5507189
 },
 {
   "type": "node",
