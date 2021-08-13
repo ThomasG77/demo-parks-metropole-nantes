@@ -15969,6 +15969,8 @@
     "landuse": "grass",
     "leisure": "park",
     "name": "Square Gustave Roch",
+    "name:br": "Skwar Gustave Roch",
+    "source:name:br": "proper translation",
     "id": "way/105303475"
   },
   "geometry": {
