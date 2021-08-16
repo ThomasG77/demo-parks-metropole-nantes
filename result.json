@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-08-15T18:52:33Z",
-    "timestamp_areas_base": "2021-08-15T18:34:13Z",
+    "timestamp_osm_base": "2021-08-16T18:53:09Z",
+    "timestamp_areas_base": "2021-08-16T18:12:18Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6060,8 +6060,10 @@
   "tags": {
     "leisure": "park",
     "name": "Parc de Beaulieu",
+    "name:br": "Park Beaulieu",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "source:name:br": "proper translation",
     "wikidata": "Q16039578",
     "wikipedia": "fr:Parc de Beaulieu"
   }

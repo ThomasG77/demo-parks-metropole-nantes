@@ -23353,8 +23353,10 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de Beaulieu",
+    "name:br": "Park Beaulieu",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "source:name:br": "proper translation",
     "wikidata": "Q16039578",
     "wikipedia": "fr:Parc de Beaulieu",
     "id": "way/178757713"
