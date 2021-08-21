@@ -7024,6 +7024,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc Paul Allain",
+    "name:br": "Park Paul Allain",
+    "source:name:br": "proper translation",
     "id": "way/29261545"
   },
   "geometry": {

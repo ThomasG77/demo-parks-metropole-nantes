@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-08-20T18:52:42Z",
-    "timestamp_areas_base": "2021-08-20T17:42:13Z",
+    "timestamp_osm_base": "2021-08-21T18:52:28Z",
+    "timestamp_areas_base": "2021-08-21T18:04:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -614,7 +614,9 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc Paul Allain"
+    "name": "Parc Paul Allain",
+    "name:br": "Park Paul Allain",
+    "source:name:br": "proper translation"
   }
 },
 {
