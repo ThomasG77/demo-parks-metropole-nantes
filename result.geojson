@@ -34604,6 +34604,8 @@
   "properties": {
     "leisure": "park",
     "name": "Terrain de pétanque",
+    "name:br": "Tachenn Betank",
+    "source:name:br": "proper translation",
     "id": "way/484775425"
   },
   "geometry": {
