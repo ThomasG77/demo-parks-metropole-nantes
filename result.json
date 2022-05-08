@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-05-07T18:52:40Z",
-    "timestamp_areas_base": "2022-05-07T18:05:56Z",
+    "timestamp_osm_base": "2022-05-08T18:52:45Z",
+    "timestamp_areas_base": "2022-05-08T18:19:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -429,6 +429,7 @@
     6387785087,
     315119471,
     388332401,
+    9724336760,
     315119472,
     388291679,
     4952857678,
@@ -447,8 +448,10 @@
     39048991,
     4952857670,
     4952857669,
+    9724337039,
     315119489,
     4952857673,
+    9724337035,
     315119492,
     315119495,
     315119497,
@@ -9243,10 +9246,7 @@
     4775268832
   ],
   "tags": {
-    "leisure": "park",
-    "name": "Terrain de pétanque",
-    "name:br": "Tachenn Betank",
-    "source:name:br": "proper translation"
+    "leisure": "park"
   }
 },
 {
@@ -10624,8 +10624,7 @@
   ],
   "tags": {
     "landuse": "grass",
-    "leisure": "park",
-    "name": "Parc de la Maison de retraite"
+    "leisure": "park"
   }
 },
 {
@@ -65333,6 +65332,12 @@
 },
 {
   "type": "node",
+  "id": 9724336760,
+  "lat": 47.2606252,
+  "lon": -1.5337076
+},
+{
+  "type": "node",
   "id": 39048991,
   "lat": 47.2640296,
   "lon": -1.5357298
@@ -65420,6 +65425,18 @@
   "id": 4952857673,
   "lat": 47.2641745,
   "lon": -1.5352334
+},
+{
+  "type": "node",
+  "id": 9724337035,
+  "lat": 47.2639517,
+  "lon": -1.5352650
+},
+{
+  "type": "node",
+  "id": 9724337039,
+  "lat": 47.2645877,
+  "lon": -1.5353060
 },
 {
   "type": "node",

@@ -6574,12 +6574,20 @@
           47.2637012
         ],
         [
+          -1.535265,
+          47.2639517
+        ],
+        [
           -1.5352334,
           47.2641745
         ],
         [
           -1.5351885,
           47.2645705
+        ],
+        [
+          -1.535306,
+          47.2645877
         ],
         [
           -1.5356371,
@@ -6652,6 +6660,10 @@
         [
           -1.5340354,
           47.2605806
+        ],
+        [
+          -1.5337076,
+          47.2606252
         ],
         [
           -1.533635,
@@ -34708,9 +34720,6 @@
   "id": "way/484775425",
   "properties": {
     "leisure": "park",
-    "name": "Terrain de pétanque",
-    "name:br": "Tachenn Betank",
-    "source:name:br": "proper translation",
     "id": "way/484775425"
   },
   "geometry": {
@@ -39192,7 +39201,6 @@
   "properties": {
     "landuse": "grass",
     "leisure": "park",
-    "name": "Parc de la Maison de retraite",
     "id": "way/605035613"
   },
   "geometry": {
