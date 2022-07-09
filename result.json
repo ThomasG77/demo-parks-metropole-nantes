@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.3 b33c3320",
   "osm3s": {
-    "timestamp_osm_base": "2022-07-08T18:53:54Z",
-    "timestamp_areas_base": "2022-07-08T14:50:39Z",
+    "timestamp_osm_base": "2022-07-09T18:51:47Z",
+    "timestamp_areas_base": "2022-07-09T18:25:25Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -12845,6 +12845,21 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1077112774,
+  "nodes": [
+    9876373532,
+    9876373533,
+    9876373534,
+    9876373535,
+    9876373532
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Jardin de la cale Aubin"
   }
 },
 {
@@ -33348,6 +33363,30 @@
   "id": 8856291033,
   "lat": 47.1917469,
   "lon": -1.5630474
+},
+{
+  "type": "node",
+  "id": 9876373532,
+  "lat": 47.1968397,
+  "lon": -1.5698010
+},
+{
+  "type": "node",
+  "id": 9876373533,
+  "lat": 47.1968673,
+  "lon": -1.5693013
+},
+{
+  "type": "node",
+  "id": 9876373534,
+  "lat": 47.1961588,
+  "lon": -1.5692165
+},
+{
+  "type": "node",
+  "id": 9876373535,
+  "lat": 47.1961312,
+  "lon": -1.5697163
 },
 {
   "type": "node",

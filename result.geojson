@@ -46315,6 +46315,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1077112774",
+  "properties": {
+    "leisure": "park",
+    "name": "Jardin de la cale Aubin",
+    "id": "way/1077112774"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.569801,
+          47.1968397
+        ],
+        [
+          -1.5697163,
+          47.1961312
+        ],
+        [
+          -1.5692165,
+          47.1961588
+        ],
+        [
+          -1.5693013,
+          47.1968673
+        ],
+        [
+          -1.569801,
+          47.1968397
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/129372502",
   "properties": {
     "leisure": "park",
