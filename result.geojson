@@ -33962,6 +33962,8 @@
   "properties": {
     "leisure": "park",
     "name": "Chemin des Maraîchers",
+    "name:br": "Hent al Legumajerien",
+    "source:name:br": "proper translation",
     "surface": "ground",
     "id": "way/484758733"
   },
