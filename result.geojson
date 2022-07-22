@@ -32719,7 +32719,10 @@
   "type": "Feature",
   "id": "way/434757083",
   "properties": {
+    "fixme": "ajouter les chemins, le panier de basquet et la table de ping pong quand l'imagerie sera à jour",
     "leisure": "park",
+    "name": "Square de la Cadranière",
+    "opening_hours": "24/7",
     "id": "way/434757083"
   },
   "geometry": {
