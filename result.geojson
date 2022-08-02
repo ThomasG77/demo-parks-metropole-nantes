@@ -39237,6 +39237,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Barbara",
+    "name:br": "Skwar Barbara",
+    "source:name:br": "proper translation",
     "id": "way/616961431"
   },
   "geometry": {
@@ -43575,6 +43577,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Louis Pergaud",
+    "name:br": "Skwar Louis Pergaud",
+    "source:name:br": "proper translation",
     "id": "way/797001075"
   },
   "geometry": {
@@ -45804,6 +45808,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Marie-Madeleine Fourcade",
+    "name:br": "Skwar Marie-Madeleine Fourcade",
+    "source:name:br": "proper translation",
     "id": "way/993834655"
   },
   "geometry": {

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-08-01T18:58:10Z",
+    "timestamp_osm_base": "2022-08-02T18:53:39Z",
     "timestamp_areas_base": "2022-07-20T11:06:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -10692,7 +10692,9 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Barbara"
+    "name": "Square Barbara",
+    "name:br": "Skwar Barbara",
+    "source:name:br": "proper translation"
   }
 },
 {
@@ -11980,7 +11982,9 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Louis Pergaud"
+    "name": "Square Louis Pergaud",
+    "name:br": "Skwar Louis Pergaud",
+    "source:name:br": "proper translation"
   }
 },
 {
@@ -12709,7 +12713,9 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Marie-Madeleine Fourcade"
+    "name": "Square Marie-Madeleine Fourcade",
+    "name:br": "Skwar Marie-Madeleine Fourcade",
+    "source:name:br": "proper translation"
   }
 },
 {
