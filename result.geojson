@@ -36859,6 +36859,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Manoir",
+    "name:br": "Park ar Maner",
+    "source:name:br": "proper translation",
     "id": "way/552177789"
   },
   "geometry": {
