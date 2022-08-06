@@ -33728,6 +33728,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc",
+    "name:br": "Park",
+    "source:name:br": "proper translation",
     "id": "way/480054765"
   },
   "geometry": {
@@ -33780,6 +33782,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc Joachim Du Bellay",
+    "name:br": "Park Joachim du Bellay",
+    "source:name:br": "proper translation",
     "id": "way/480054767"
   },
   "geometry": {
@@ -37414,6 +37418,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Belem",
+    "name:br": "Skwar Bélem",
+    "source:name:br": "proper translation",
     "id": "way/557086452"
   },
   "geometry": {
