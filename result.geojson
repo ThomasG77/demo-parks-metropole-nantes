@@ -3220,6 +3220,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Clos Saint-Julien",
+    "name:br": "Liorzh Kloz Sant-Juluan",
+    "source:name:br": "proper translation",
     "type": "multipolygon",
     "id": "relation/2088222"
   },
