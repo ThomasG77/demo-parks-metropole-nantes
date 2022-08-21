@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-08-20T18:52:59Z",
+    "timestamp_osm_base": "2022-08-21T18:52:39Z",
     "timestamp_areas_base": "2022-07-20T10:48:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -12928,6 +12928,32 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1087979510,
+  "nodes": [
+    3459069102,
+    3459064791,
+    978604011,
+    978711165,
+    3459064792,
+    3459064779,
+    3459069098,
+    3459069101,
+    3459069099,
+    3459069100,
+    3459069102
+  ],
+  "tags": {
+    "addr:city": "Rezé",
+    "addr:postcode": "44400",
+    "addr:street": "Impasse des Pélouées",
+    "leisure": "park",
+    "name": "Parc des Naudières",
+    "opening_hours": "24/7",
+    "operator": "Mairie de Rezé"
   }
 },
 {
@@ -33823,6 +33849,66 @@
   "id": 4608380029,
   "lat": 47.2017971,
   "lon": -1.5467619
+},
+{
+  "type": "node",
+  "id": 3459069102,
+  "lat": 47.1778200,
+  "lon": -1.5401478
+},
+{
+  "type": "node",
+  "id": 978604011,
+  "lat": 47.1772925,
+  "lon": -1.5398423
+},
+{
+  "type": "node",
+  "id": 978711165,
+  "lat": 47.1772581,
+  "lon": -1.5398130
+},
+{
+  "type": "node",
+  "id": 3459064779,
+  "lat": 47.1769105,
+  "lon": -1.5395670
+},
+{
+  "type": "node",
+  "id": 3459064791,
+  "lat": 47.1772167,
+  "lon": -1.5400390
+},
+{
+  "type": "node",
+  "id": 3459064792,
+  "lat": 47.1772309,
+  "lon": -1.5398848
+},
+{
+  "type": "node",
+  "id": 3459069098,
+  "lat": 47.1775487,
+  "lon": -1.5379319
+},
+{
+  "type": "node",
+  "id": 3459069099,
+  "lat": 47.1775897,
+  "lon": -1.5391948
+},
+{
+  "type": "node",
+  "id": 3459069100,
+  "lat": 47.1776307,
+  "lon": -1.5393871
+},
+{
+  "type": "node",
+  "id": 3459069101,
+  "lat": 47.1777006,
+  "lon": -1.5391345
 },
 {
   "type": "node",
