@@ -807,6 +807,8 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la Chézine",
+    "name:br": "Park ar C'hezin",
+    "source:name:br": "proper translation",
     "type": "multipolygon",
     "id": "relation/1422336"
   },
