@@ -6568,6 +6568,7 @@
     "leisure": "park",
     "name": "Square Faustin Hélie",
     "name:br": "Skwar Faustin Hélie",
+    "name:etymology:wikidata": "Q3067471",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
     "source:name:br": "proper translation",
@@ -11127,6 +11128,7 @@
     "leisure": "park",
     "name": "Square Maurice Schwob",
     "name:br": "Skwar Maurice Schwob",
+    "name:etymology:wikidata": "Q766664",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
@@ -14270,6 +14272,7 @@
     "leisure": "park",
     "name": "Square de l'Édit de Nantes",
     "name:br": "Skwar Skrid-embann Naoned",
+    "name:etymology:wikidata": "Q179788",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
     "source:name:br": "proper translation",
@@ -18918,6 +18921,7 @@
     "architect:wikipedia": "fr:Étienne Coutan",
     "leisure": "park",
     "name": "Square Jean-Baptiste Daviais",
+    "name:etymology:wikidata": "Q3164001",
     "name:wikidata": "Q3164001",
     "name:wikipedia": "fr:Jean-Baptiste Daviais",
     "opening_hours": "24/7",
@@ -31701,6 +31705,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Marcel Renaud",
+    "name:br": "Skwar Marcel Renaud",
+    "source:name:br": "proper translation",
     "id": "way/375833869"
   },
   "geometry": {
@@ -34846,6 +34852,7 @@
     "leisure": "park",
     "name": "Square Étienne Destranges",
     "name:br": "Skwar Étienne Destranges",
+    "name:etymology:wikidata": "Q18197549",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "source:name:br": "proper translation",
@@ -43800,6 +43807,7 @@
     "leisure": "park",
     "name": "Square Louis Pergaud",
     "name:br": "Skwar Louis Pergaud",
+    "name:etymology:wikidata": "Q602468",
     "source:name:br": "proper translation",
     "id": "way/797001075"
   },
@@ -46035,6 +46043,7 @@
     "leisure": "park",
     "name": "Square Marie-Madeleine Fourcade",
     "name:br": "Skwar Marie-Madeleine Fourcade",
+    "name:etymology:wikidata": "Q3292123",
     "source:name:br": "proper translation",
     "id": "way/993834655"
   },
