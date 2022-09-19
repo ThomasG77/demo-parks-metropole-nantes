@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-09-18T18:57:54Z",
-    "timestamp_areas_base": "2022-07-20T11:06:24Z",
+    "timestamp_osm_base": "2022-09-19T19:00:09Z",
+    "timestamp_areas_base": "2022-07-20T10:48:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2364,6 +2364,7 @@
     "leisure": "park",
     "name": "Square Gaston Michel",
     "name:br": "Skwar Gaston Michel",
+    "name:etymology:wikidata": "Q100869239",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation"
   }

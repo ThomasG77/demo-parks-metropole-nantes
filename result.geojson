@@ -12498,6 +12498,7 @@
     "leisure": "park",
     "name": "Square Gaston Michel",
     "name:br": "Skwar Gaston Michel",
+    "name:etymology:wikidata": "Q100869239",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "id": "way/49157631"
