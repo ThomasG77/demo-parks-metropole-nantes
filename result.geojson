@@ -23226,6 +23226,8 @@
     "name:etymology:wikidata": "Q3159824",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source:name:br": "proper translation",
     "start_date": "2014-06",
     "id": "way/178757102"
@@ -28231,6 +28233,8 @@
     "name": "Parc de la Moutonnerie",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "wikidata": "Q16509980",
     "wikipedia": "fr:Parc de la Moutonnerie",
     "id": "way/244168581"
