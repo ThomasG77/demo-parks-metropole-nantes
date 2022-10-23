@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-22T19:01:24Z",
-    "timestamp_areas_base": "2022-10-22T17:14:39Z",
+    "timestamp_osm_base": "2022-10-23T19:00:43Z",
+    "timestamp_areas_base": "2022-10-23T16:24:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -9426,6 +9426,24 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 492684176,
+  "nodes": [
+    4846718634,
+    4846718633,
+    4846718649,
+    4846718650,
+    4846718634
+  ],
+  "tags": {
+    "barrier": "wall",
+    "height": "0.3",
+    "landuse": "grass",
+    "leisure": "park",
+    "name": "Cours Cathuis"
   }
 },
 {
@@ -51880,6 +51898,30 @@
   "id": 3836461250,
   "lat": 47.2256748,
   "lon": -1.5627899
+},
+{
+  "type": "node",
+  "id": 4846718633,
+  "lat": 47.2224973,
+  "lon": -1.5633700
+},
+{
+  "type": "node",
+  "id": 4846718634,
+  "lat": 47.2224656,
+  "lon": -1.5634611
+},
+{
+  "type": "node",
+  "id": 4846718649,
+  "lat": 47.2227311,
+  "lon": -1.5635409
+},
+{
+  "type": "node",
+  "id": 4846718650,
+  "lat": 47.2227003,
+  "lon": -1.5636323
 },
 {
   "type": "node",

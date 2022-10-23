@@ -35196,6 +35196,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/492684176",
+  "properties": {
+    "barrier": "wall",
+    "height": "0.3",
+    "landuse": "grass",
+    "leisure": "park",
+    "name": "Cours Cathuis",
+    "id": "way/492684176"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5634611,
+          47.2224656
+        ],
+        [
+          -1.56337,
+          47.2224973
+        ],
+        [
+          -1.5635409,
+          47.2227311
+        ],
+        [
+          -1.5636323,
+          47.2227003
+        ],
+        [
+          -1.5634611,
+          47.2224656
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/498595558",
   "properties": {
     "leisure": "park",
