@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-23T18:51:24Z",
-    "timestamp_areas_base": "2022-11-23T15:07:54Z",
+    "timestamp_osm_base": "2022-11-24T18:51:24Z",
+    "timestamp_areas_base": "2022-11-24T18:24:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13152,6 +13152,26 @@
     "opening_hours": "Mo-Su 08:00-12:00, 13:30-17:00",
     "operator": "Mairie de Rezé",
     "source": "https://www.reze.fr/actualite/bois-des-naudieres-un-nouveau-parc-a-decouvrir/;https://www.ouest-france.fr/pays-de-la-loire/reze-44400/reze-aux-naudieres-ce-petit-bois-est-devenu-un-parc-public-758cd470-1f0f-11ed-87e6-ec5e03fce8f7"
+  }
+},
+{
+  "type": "way",
+  "id": 1116638843,
+  "nodes": [
+    10212955476,
+    10212955485,
+    10212955477,
+    10212955478,
+    10212955479,
+    10212955486,
+    10212955480,
+    10212955481,
+    10212955482,
+    10212955483,
+    10212955476
+  ],
+  "tags": {
+    "leisure": "park"
   }
 },
 {
@@ -38018,6 +38038,36 @@
 },
 {
   "type": "node",
+  "id": 10212955479,
+  "lat": 47.2348850,
+  "lon": -1.6319379
+},
+{
+  "type": "node",
+  "id": 10212955486,
+  "lat": 47.2348782,
+  "lon": -1.6319143
+},
+{
+  "type": "node",
+  "id": 10212955480,
+  "lat": 47.2347584,
+  "lon": -1.6314950
+},
+{
+  "type": "node",
+  "id": 10212955481,
+  "lat": 47.2349901,
+  "lon": -1.6313664
+},
+{
+  "type": "node",
+  "id": 10212955482,
+  "lat": 47.2350424,
+  "lon": -1.6315404
+},
+{
+  "type": "node",
   "id": 1522053124,
   "lat": 47.2367596,
   "lon": -1.6381206
@@ -38027,6 +38077,36 @@
   "id": 1522053241,
   "lat": 47.2372841,
   "lon": -1.6383995
+},
+{
+  "type": "node",
+  "id": 10212955477,
+  "lat": 47.2351284,
+  "lon": -1.6319610
+},
+{
+  "type": "node",
+  "id": 10212955485,
+  "lat": 47.2352936,
+  "lon": -1.6318642
+},
+{
+  "type": "node",
+  "id": 10212955476,
+  "lat": 47.2355792,
+  "lon": -1.6316968
+},
+{
+  "type": "node",
+  "id": 10212955478,
+  "lat": 47.2350875,
+  "lon": -1.6318310
+},
+{
+  "type": "node",
+  "id": 10212955483,
+  "lat": 47.2354692,
+  "lon": -1.6313063
 },
 {
   "type": "node",
