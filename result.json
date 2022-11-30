@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-29T18:51:44Z",
-    "timestamp_areas_base": "2022-11-29T05:13:53Z",
+    "timestamp_osm_base": "2022-11-30T18:51:08Z",
+    "timestamp_areas_base": "2022-11-30T18:36:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1240,6 +1240,7 @@
     "leisure": "park",
     "name": "Square Toussaint Louverture",
     "name:br": "Skwar Toussaint Louverture",
+    "name:etymology:wikidata": "Q205783",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
@@ -2223,6 +2224,7 @@
     "leisure": "park",
     "name": "Square Louis Feuillade",
     "name:br": "Skwar Louis Feuillade",
+    "name:etymology:wikidata": "Q951835",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation"
   }
@@ -3834,7 +3836,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Cours Hermeland"
+    "name": "Cours Hermeland",
+    "name:etymology:wikidata": "Q3134198"
   }
 },
 {
@@ -12404,6 +12407,7 @@
     "leisure": "park",
     "name": "Parc Méliès",
     "name:br": "Park Méliès",
+    "name:etymology:wikidata": "Q152272",
     "opening_hours": "24/7",
     "operator": "SEVE",
     "source:name:br": "proper translation",
@@ -13296,6 +13300,7 @@
     "leisure": "park",
     "name": "Parc de la Chézine",
     "name:br": "Park ar C'hezin",
+    "name:etymology:wikidata": "Q2972096",
     "source:name:br": "proper translation",
     "type": "multipolygon"
   }
