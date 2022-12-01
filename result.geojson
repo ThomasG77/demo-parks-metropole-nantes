@@ -4964,6 +4964,7 @@
     "leisure": "park",
     "name": "Square de la Bourse",
     "name:br": "Skwar ar Yalc'h",
+    "name:etymology:wikidata": "Q767657",
     "source:name:br": "proper translation",
     "id": "way/26686312"
   },
