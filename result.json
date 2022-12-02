@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-01T18:51:24Z",
-    "timestamp_areas_base": "2022-12-01T13:16:54Z",
+    "timestamp_osm_base": "2022-12-02T18:51:09Z",
+    "timestamp_areas_base": "2022-12-02T18:01:22Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4703,6 +4703,7 @@
     "leisure": "park",
     "name": "Square Docteur Louis Bureau",
     "name:br": "Skwar an Doktor Louis Bureau",
+    "name:etymology:wikidata": "Q3261377",
     "name:wikidata": "Q3261377",
     "name:wikipedia": "fr:Louis Bureau",
     "source:name:br": "proper translation"
@@ -11084,6 +11085,7 @@
     "leisure": "park",
     "name": "Jardin Say",
     "name:br": "Liorzh Say",
+    "name:etymology:wikidata": "Q3271322",
     "source:name:br": "proper translation"
   }
 },
@@ -13416,6 +13418,7 @@
     "leisure": "park",
     "name": "Cours Cambronne",
     "name:br": "Bali Cambronne",
+    "name:etymology:wikidata": "Q472540",
     "name:wikidata": "Q472540",
     "name:wikipedia": "fr:Pierre Cambronne",
     "old_name": "Cours de la République",
