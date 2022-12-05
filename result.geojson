@@ -4601,6 +4601,7 @@
     "access": "permissive",
     "leisure": "park",
     "name": "Parc de La Maison Radieuse",
+    "name:etymology:wikidata": "Q2974705",
     "type": "multipolygon",
     "id": "relation/12695921"
   },
