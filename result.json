@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-08T18:51:23Z",
-    "timestamp_areas_base": "2022-12-08T18:42:24Z",
+    "timestamp_osm_base": "2022-12-09T18:51:23Z",
+    "timestamp_areas_base": "2022-12-09T18:21:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -393,6 +393,8 @@
     "name": "Parc de la Noé-Mitrie",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "smoking": "no",
     "source:smoking": "https://twitter.com/nantesfr/status/1379429880954167304",
     "wikidata": "Q16509985",

@@ -6091,6 +6091,8 @@
     "name": "Parc de la Noé-Mitrie",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "smoking": "no",
     "source:smoking": "https://twitter.com/nantesfr/status/1379429880954167304",
     "wikidata": "Q16509985",
