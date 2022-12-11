@@ -10668,8 +10668,10 @@
     "dog": "leashed",
     "leisure": "park",
     "name": "Parc de la Boucardière",
+    "name:br": "Park La Boucardière",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "source": "bing",
+    "source:name:br": "proper translation",
     "website": "https://jardins.nantes.fr/N/Jardin/Parcs-Jardins/Jardin-Description.asp?RCS=180",
     "wikidata": "Q115281166",
     "id": "way/44936824"
