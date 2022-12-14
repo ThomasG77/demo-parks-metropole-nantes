@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-13T18:52:08Z",
-    "timestamp_areas_base": "2022-12-13T10:57:20Z",
+    "timestamp_osm_base": "2022-12-14T18:52:08Z",
+    "timestamp_areas_base": "2022-12-14T09:07:39Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4302,6 +4302,7 @@
   "tags": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:etymology:wikidata": "Q3554067",
     "source": "bing"
   }
 },
@@ -4362,6 +4363,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square du Maquis-de-Saffré",
+    "name:etymology:wikidata": "Q3287286",
     "source": "survey",
     "wikidata": "Q3495038",
     "wikipedia": "fr:Square du Maquis-de-Saffré"
@@ -5001,6 +5003,8 @@
     "name": "Parc de la Chantrerie",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "wikidata": "Q3364197",
     "wikipedia": "fr:Parc de la Chantrerie"
   }
@@ -10306,7 +10310,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square René Guy Cadou"
+    "name": "Square René Guy Cadou",
+    "name:etymology:wikidata": "Q3426323"
   }
 },
 {
