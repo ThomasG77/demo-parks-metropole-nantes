@@ -16283,6 +16283,7 @@
   "properties": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:etymology:wikidata": "Q3554067",
     "id": "way/132747191"
   },
   "geometry": {
@@ -45593,6 +45594,7 @@
     "leisure": "park",
     "name": "Parc Michel-Baudry",
     "name:br": "Park Michel Baudry",
+    "name:etymology:wikidata": "Q116057906",
     "source:name:br": "proper translation",
     "wikidata": "Q99432927",
     "id": "way/863409934"
