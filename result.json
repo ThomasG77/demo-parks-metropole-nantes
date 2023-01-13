@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-01-12T18:51:38Z",
-    "timestamp_areas_base": "2023-01-12T13:37:49Z",
+    "timestamp_osm_base": "2023-01-13T18:50:56Z",
+    "timestamp_areas_base": "2023-01-13T17:55:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1100,7 +1100,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Charles Richard"
+    "name": "Square Charles Richard",
+    "ref:FR:FANTOIR": "441430686F"
   }
 },
 {
@@ -32567,20 +32568,20 @@
 {
   "type": "node",
   "id": 2432806548,
-  "lat": 47.1823405,
-  "lon": -1.5541074
+  "lat": 47.1823587,
+  "lon": -1.5540886
 },
 {
   "type": "node",
   "id": 2432806549,
-  "lat": 47.1823451,
-  "lon": -1.5541701
+  "lat": 47.1823743,
+  "lon": -1.5541379
 },
 {
   "type": "node",
   "id": 2432806550,
-  "lat": 47.1823665,
-  "lon": -1.5542309
+  "lat": 47.1823847,
+  "lon": -1.5541612
 },
 {
   "type": "node",
@@ -32843,8 +32844,8 @@
 {
   "type": "node",
   "id": 365572869,
-  "lat": 47.1827610,
-  "lon": -1.5544154
+  "lat": 47.1827829,
+  "lon": -1.5543537
 },
 {
   "type": "node",
@@ -32915,8 +32916,8 @@
 {
   "type": "node",
   "id": 2432806556,
-  "lat": 47.1826844,
-  "lon": -1.5544212
+  "lat": 47.1827045,
+  "lon": -1.5543488
 },
 {
   "type": "node",
@@ -32927,8 +32928,8 @@
 {
   "type": "node",
   "id": 2432806559,
-  "lat": 47.1827324,
-  "lon": -1.5544320
+  "lat": 47.1827452,
+  "lon": -1.5543676
 },
 {
   "type": "node",
