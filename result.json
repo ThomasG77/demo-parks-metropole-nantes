@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-01-20T18:51:04Z",
-    "timestamp_areas_base": "2023-01-20T14:25:43Z",
+    "timestamp_osm_base": "2023-01-21T18:52:35Z",
+    "timestamp_areas_base": "2023-01-21T17:12:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1878,21 +1878,6 @@
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
     "source:name:br": "proper translation",
     "wikipedia": "fr:La Psallette#Jardin de la Psallette"
-  }
-},
-{
-  "type": "way",
-  "id": 45334828,
-  "nodes": [
-    360327706,
-    576186375,
-    576186430,
-    576186407,
-    360327706
-  ],
-  "tags": {
-    "leisure": "park",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
   }
 },
 {
