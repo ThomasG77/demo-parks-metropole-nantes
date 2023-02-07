@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-02-06T18:51:40Z",
-    "timestamp_areas_base": "2023-02-06T18:18:10Z",
+    "timestamp_osm_base": "2023-02-07T18:51:49Z",
+    "timestamp_areas_base": "2023-02-07T13:27:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13289,6 +13289,25 @@
   }
 },
 {
+  "type": "way",
+  "id": 1138748163,
+  "nodes": [
+    10614804911,
+    10614804912,
+    10614804913,
+    10614804914,
+    10614804911
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Skateparc",
+    "opening_hours": "24/7",
+    "operator": "mairie",
+    "operator:type": "public",
+    "start_date": "2023"
+  }
+},
+{
   "type": "relation",
   "id": 341506,
   "members": [
@@ -18844,6 +18863,30 @@
   "id": 7312028100,
   "lat": 47.1946816,
   "lon": -1.6528591
+},
+{
+  "type": "node",
+  "id": 10614804911,
+  "lat": 47.1969574,
+  "lon": -1.6572195
+},
+{
+  "type": "node",
+  "id": 10614804912,
+  "lat": 47.1970027,
+  "lon": -1.6574901
+},
+{
+  "type": "node",
+  "id": 10614804913,
+  "lat": 47.1967526,
+  "lon": -1.6577897
+},
+{
+  "type": "node",
+  "id": 10614804914,
+  "lat": 47.1966496,
+  "lon": -1.6572610
 },
 {
   "type": "node",
