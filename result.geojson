@@ -8686,6 +8686,7 @@
     "leisure": "park",
     "name": "Square Jean Moulin",
     "name:br": "Skwar Jean Moulin",
+    "name:etymology:wikidata": "Q632",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "id": "way/34182182"
