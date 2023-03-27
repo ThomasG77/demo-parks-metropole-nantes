@@ -15199,6 +15199,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Célestin Freinet",
+    "name:etymology:wikidata": "Q313068",
     "id": "way/93361436"
   },
   "geometry": {
@@ -25738,6 +25739,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de Dundalk",
+    "name:etymology:wikidata": "Q204956",
     "id": "way/222047272"
   },
   "geometry": {

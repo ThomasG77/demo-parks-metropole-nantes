@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59.2 0994154d",
+  "generator": "Overpass API 0.7.59.4 36d058c8",
   "osm3s": {
-    "timestamp_osm_base": "2023-03-26T18:52:09Z",
-    "timestamp_areas_base": "2023-03-26T18:08:39Z",
+    "timestamp_osm_base": "2023-03-27T18:51:53Z",
+    "timestamp_areas_base": "2023-03-27T14:20:39Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3201,7 +3201,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Célestin Freinet"
+    "name": "Square Célestin Freinet",
+    "name:etymology:wikidata": "Q313068"
   }
 },
 {
@@ -6805,7 +6806,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc de Dundalk"
+    "name": "Parc de Dundalk",
+    "name:etymology:wikidata": "Q204956"
   }
 },
 {
