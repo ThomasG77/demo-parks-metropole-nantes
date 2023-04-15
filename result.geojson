@@ -18643,6 +18643,7 @@
   "type": "Feature",
   "id": "way/142340626",
   "properties": {
+    "image:streetsign": "https://i.imgur.com/7jE1pZH.jpg",
     "leisure": "park",
     "name": "Jardin des Plantes",
     "name:br": "Liorzh ar Plant",
