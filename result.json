@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.2 e4cf9f7a",
   "osm3s": {
-    "timestamp_osm_base": "2023-05-01T18:52:22Z",
+    "timestamp_osm_base": "2023-05-02T18:46:20Z",
     "timestamp_areas_base": "2023-04-25T08:53:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2892,40 +2892,6 @@
   "tags": {
     "leisure": "park",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 76938568,
-  "nodes": [
-    4915743772,
-    4915743565,
-    4915743559,
-    4915743771,
-    4915743773,
-    880934367,
-    906188290,
-    906188299,
-    880943863,
-    880935519,
-    4915743672,
-    906188298,
-    4915743614,
-    1665993789,
-    4915743611,
-    906188291,
-    4915743766,
-    4915743772
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Square de l'Édit de Nantes",
-    "name:br": "Skwar Skrid-embann Naoned",
-    "name:etymology:wikidata": "Q179788",
-    "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
-    "operator": "Ville de Nantes",
-    "source:name:br": "proper translation",
-    "website": "https://jardins.nantes.fr"
   }
 },
 {
@@ -49750,21 +49716,9 @@
 },
 {
   "type": "node",
-  "id": 880934367,
-  "lat": 47.2142101,
-  "lon": -1.5678316
-},
-{
-  "type": "node",
   "id": 880935100,
   "lat": 47.2126862,
   "lon": -1.5683867
-},
-{
-  "type": "node",
-  "id": 880935519,
-  "lat": 47.2142621,
-  "lon": -1.5674831
 },
 {
   "type": "node",
@@ -49777,36 +49731,6 @@
   "id": 880941332,
   "lat": 47.2126568,
   "lon": -1.5682558
-},
-{
-  "type": "node",
-  "id": 880943863,
-  "lat": 47.2142378,
-  "lon": -1.5676889
-},
-{
-  "type": "node",
-  "id": 906188290,
-  "lat": 47.2142244,
-  "lon": -1.5677341
-},
-{
-  "type": "node",
-  "id": 906188291,
-  "lat": 47.2144951,
-  "lon": -1.5677132
-},
-{
-  "type": "node",
-  "id": 906188298,
-  "lat": 47.2143936,
-  "lon": -1.5675089
-},
-{
-  "type": "node",
-  "id": 906188299,
-  "lat": 47.2142325,
-  "lon": -1.5677353
 },
 {
   "type": "node",
@@ -49882,12 +49806,6 @@
 },
 {
   "type": "node",
-  "id": 1665993789,
-  "lat": 47.2144463,
-  "lon": -1.5676147
-},
-{
-  "type": "node",
   "id": 1676920973,
   "lat": 47.2132519,
   "lon": -1.5724085
@@ -49897,60 +49815,6 @@
   "id": 3903810963,
   "lat": 47.2126189,
   "lon": -1.5689020
-},
-{
-  "type": "node",
-  "id": 4915743559,
-  "lat": 47.2143814,
-  "lon": -1.5678693
-},
-{
-  "type": "node",
-  "id": 4915743565,
-  "lat": 47.2143968,
-  "lon": -1.5678727
-},
-{
-  "type": "node",
-  "id": 4915743611,
-  "lat": 47.2144508,
-  "lon": -1.5676238
-},
-{
-  "type": "node",
-  "id": 4915743614,
-  "lat": 47.2144424,
-  "lon": -1.5676069
-},
-{
-  "type": "node",
-  "id": 4915743672,
-  "lat": 47.2143263,
-  "lon": -1.5674957
-},
-{
-  "type": "node",
-  "id": 4915743766,
-  "lat": 47.2144856,
-  "lon": -1.5678019
-},
-{
-  "type": "node",
-  "id": 4915743771,
-  "lat": 47.2142236,
-  "lon": -1.5678345
-},
-{
-  "type": "node",
-  "id": 4915743772,
-  "lat": 47.2144761,
-  "lon": -1.5678900
-},
-{
-  "type": "node",
-  "id": 4915743773,
-  "lat": 47.2142172,
-  "lon": -1.5678332
 },
 {
   "type": "node",
