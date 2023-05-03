@@ -8504,6 +8504,8 @@
     "name:br": "Skwar Marcel Launay",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "id": "way/32565786"
@@ -9954,6 +9956,8 @@
     "name:br": "Skwar Jean Le Gigant",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
     "source:name:br": "proper translation",
     "id": "way/44782327"
@@ -21132,6 +21136,8 @@
     "name:br": "Ar Liorzh dreistordinal",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 09:00-18:15; Mar 20-Oct 22 09:00-19:30; Oct 18-Jan 14 09:00-17:15",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source:name:br": "proper translation",
     "start_date": "2019-09-28",
     "url": "https://jardins.nantes.fr/N/Jardin/Parcs-Jardins/Plus/2114/Jardin-extraordinaire.asp",

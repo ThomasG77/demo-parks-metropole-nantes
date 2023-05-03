@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+  "generator": "Overpass API 0.7.60 f4c14d41",
   "osm3s": {
-    "timestamp_osm_base": "2023-05-02T18:46:20Z",
-    "timestamp_areas_base": "2023-04-25T08:53:24Z",
+    "timestamp_osm_base": "2023-05-03T18:51:46Z",
+    "timestamp_areas_base": "2023-05-03T14:37:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1122,6 +1122,8 @@
     "name:br": "Skwar Marcel Launay",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation"
   }
@@ -1597,6 +1599,8 @@
     "name:br": "Skwar Jean Le Gigant",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
     "source:name:br": "proper translation"
   }
@@ -5365,6 +5369,8 @@
     "name:br": "Ar Liorzh dreistordinal",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 09:00-18:15; Mar 20-Oct 22 09:00-19:30; Oct 18-Jan 14 09:00-17:15",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source:name:br": "proper translation",
     "start_date": "2019-09-28",
     "url": "https://jardins.nantes.fr/N/Jardin/Parcs-Jardins/Plus/2114/Jardin-extraordinaire.asp",
