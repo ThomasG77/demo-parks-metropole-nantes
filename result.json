@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60 f4c14d41",
   "osm3s": {
-    "timestamp_osm_base": "2023-05-19T18:51:53Z",
-    "timestamp_areas_base": "2023-05-19T13:35:28Z",
+    "timestamp_osm_base": "2023-05-20T18:52:24Z",
+    "timestamp_areas_base": "2023-05-20T17:52:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -605,6 +605,7 @@
     321793805,
     3859683960,
     2428165990,
+    10914423935,
     321793806,
     321795687,
     321795689,
@@ -4426,6 +4427,7 @@
     1520035894
   ],
   "tags": {
+    "image:streetsign": "https://i.imgur.com/Ov0n8x2.jpg",
     "leisure": "park",
     "name": "Parc de Bottière-Chenaie"
   }
@@ -32294,8 +32296,8 @@
 {
   "type": "node",
   "id": 321793781,
-  "lat": 47.1837431,
-  "lon": -1.5609933
+  "lat": 47.1837638,
+  "lon": -1.5610024
 },
 {
   "type": "node",
@@ -32306,8 +32308,8 @@
 {
   "type": "node",
   "id": 321793806,
-  "lat": 47.1840640,
-  "lon": -1.5622776
+  "lat": 47.1840590,
+  "lon": -1.5622589
 },
 {
   "type": "node",
@@ -32630,14 +32632,14 @@
 {
   "type": "node",
   "id": 2428165990,
-  "lat": 47.1840923,
-  "lon": -1.5620931
+  "lat": 47.1840947,
+  "lon": -1.5620745
 },
 {
   "type": "node",
   "id": 3859683960,
-  "lat": 47.1840995,
-  "lon": -1.5620491
+  "lat": 47.1841066,
+  "lon": -1.5620243
 },
 {
   "type": "node",
@@ -32686,6 +32688,12 @@
   "id": 7072076770,
   "lat": 47.1880865,
   "lon": -1.5629286
+},
+{
+  "type": "node",
+  "id": 10914423935,
+  "lat": 47.1840707,
+  "lon": -1.5622006
 },
 {
   "type": "node",
