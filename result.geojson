@@ -30158,6 +30158,7 @@
   "type": "Feature",
   "id": "way/280168375",
   "properties": {
+    "image:streetsign": "https://i.imgur.com/iJX1sL2.jpg",
     "leisure": "park",
     "name": "Jardin du Réservoir",
     "id": "way/280168375"
