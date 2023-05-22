@@ -18916,6 +18916,8 @@
     "name:wikipedia": "fr:Jean-Baptiste Daviais",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "start_date": "1930s",

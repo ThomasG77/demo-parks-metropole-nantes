@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.2 e4cf9f7a",
   "osm3s": {
-    "timestamp_osm_base": "2023-05-21T18:52:24Z",
-    "timestamp_areas_base": "2023-05-21T16:11:20Z",
+    "timestamp_osm_base": "2023-05-22T18:52:24Z",
+    "timestamp_areas_base": "2023-05-22T15:39:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4649,6 +4649,8 @@
     "name:wikipedia": "fr:Jean-Baptiste Daviais",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "start_date": "1930s",
@@ -8181,7 +8183,7 @@
     3390992200,
     577271378,
     577271376,
-    10023549382,
+    10023549381,
     3390992201,
     3390992202,
     3390992215,
@@ -64570,7 +64572,7 @@
 },
 {
   "type": "node",
-  "id": 10023549382,
+  "id": 10023549381,
   "lat": 47.2480539,
   "lon": -1.5184587
 },
