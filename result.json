@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-06-02T18:52:27Z",
-    "timestamp_areas_base": "2023-06-02T15:29:11Z",
+    "timestamp_osm_base": "2023-06-03T18:52:21Z",
+    "timestamp_areas_base": "2023-06-03T14:55:39Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7497,15 +7497,17 @@
   "type": "way",
   "id": 259218470,
   "nodes": [
-    2645687822,
+    516920055,
+    10948589198,
     2645687823,
     2645687825,
     2645687805,
     2645687827,
+    516920056,
     2645687829,
     2645687831,
     2645687833,
-    2645687822
+    516920055
   ],
   "tags": {
     "leisure": "park",
@@ -13698,15 +13700,21 @@
 },
 {
   "type": "node",
-  "id": 2645687805,
-  "lat": 47.1335688,
-  "lon": -1.7325261
+  "id": 516920055,
+  "lat": 47.1324186,
+  "lon": -1.7339470
 },
 {
   "type": "node",
-  "id": 2645687822,
-  "lat": 47.1324186,
-  "lon": -1.7339470
+  "id": 516920056,
+  "lat": 47.1331361,
+  "lon": -1.7325247
+},
+{
+  "type": "node",
+  "id": 2645687805,
+  "lat": 47.1335688,
+  "lon": -1.7325261
 },
 {
   "type": "node",
@@ -13735,14 +13743,20 @@
 {
   "type": "node",
   "id": 2645687831,
-  "lat": 47.1325997,
-  "lon": -1.7333244
+  "lat": 47.1325850,
+  "lon": -1.7332289
 },
 {
   "type": "node",
   "id": 2645687833,
-  "lat": 47.1322439,
-  "lon": -1.7335819
+  "lat": 47.1322302,
+  "lon": -1.7335397
+},
+{
+  "type": "node",
+  "id": 10948589198,
+  "lat": 47.1333192,
+  "lon": -1.7334302
 },
 {
   "type": "node",
