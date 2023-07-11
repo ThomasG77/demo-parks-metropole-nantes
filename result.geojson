@@ -23577,6 +23577,7 @@
     "leisure": "park",
     "name": "Parc de Beaulieu",
     "name:br": "Park Beaulieu",
+    "name:etymology:wikidata": "Q3593010",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
