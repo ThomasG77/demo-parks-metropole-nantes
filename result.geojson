@@ -296,6 +296,7 @@
   "id": "relation/1017166",
   "properties": {
     "leisure": "park",
+    "name": "Parc des droits de l'Homme et du citoyen",
     "type": "multipolygon",
     "id": "relation/1017166"
   },
