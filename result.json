@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-05T18:52:04Z",
-    "timestamp_areas_base": "2023-08-05T15:54:30Z",
+    "timestamp_osm_base": "2023-08-06T18:52:25Z",
+    "timestamp_areas_base": "2023-08-06T13:56:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1486,13 +1486,15 @@
     1675907056,
     1675907087,
     539779880,
+    11093359524,
     539779884,
     539779883,
     539779874
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc du Chassay"
+    "name": "Parc du Chassay",
+    "wikidata": "Q105813602"
   }
 },
 {
@@ -10332,7 +10334,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc de la Minais"
+    "name": "Parc de la Minais",
+    "wikidata": "Q105813670"
   }
 },
 {
@@ -65649,8 +65652,8 @@
 {
   "type": "node",
   "id": 539779880,
-  "lat": 47.2462554,
-  "lon": -1.4852924
+  "lat": 47.2462927,
+  "lon": -1.4853273
 },
 {
   "type": "node",
@@ -65667,8 +65670,8 @@
 {
   "type": "node",
   "id": 539779884,
-  "lat": 47.2464354,
-  "lon": -1.4847652
+  "lat": 47.2464809,
+  "lon": -1.4848054
 },
 {
   "type": "node",
@@ -66413,6 +66416,12 @@
   "id": 6653373692,
   "lat": 47.2479947,
   "lon": -1.4828278
+},
+{
+  "type": "node",
+  "id": 11093359524,
+  "lat": 47.2463554,
+  "lon": -1.4852746
 },
 {
   "type": "node",
