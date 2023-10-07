@@ -47899,46 +47899,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1138748163",
-  "properties": {
-    "leisure": "park",
-    "name": "Skateparc",
-    "opening_hours": "24/7",
-    "operator": "mairie",
-    "operator:type": "public",
-    "start_date": "2023",
-    "id": "way/1138748163"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6572195,
-          47.1969574
-        ],
-        [
-          -1.6574901,
-          47.1970027
-        ],
-        [
-          -1.6577897,
-          47.1967526
-        ],
-        [
-          -1.657261,
-          47.1966496
-        ],
-        [
-          -1.6572195,
-          47.1969574
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1156576965",
   "properties": {
     "leisure": "park",
