@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-26T18:52:06Z",
-    "timestamp_areas_base": "2023-10-26T13:50:41Z",
+    "timestamp_osm_base": "2023-10-27T18:51:18Z",
+    "timestamp_areas_base": "2023-10-27T16:42:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -239,6 +239,7 @@
     1492750408,
     306010792,
     1492750402,
+    11293062885,
     1492750471,
     1492750404,
     1667850596,
@@ -252,6 +253,8 @@
     "name:br": "Park La Gaudinière",
     "opening_hours": "08:30-20:00; Oct 23-Nov 17:00,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "source:name:br": "proper translation",
     "wikidata": "Q3364211"
   }
@@ -46579,6 +46582,12 @@
 },
 {
   "type": "node",
+  "id": 11293062885,
+  "lat": 47.2459256,
+  "lon": -1.5798171
+},
+{
+  "type": "node",
   "id": 306010774,
   "lat": 47.2422333,
   "lon": -1.5792778
@@ -51134,8 +51143,8 @@
 {
   "type": "node",
   "id": 6929972202,
-  "lat": 47.2049802,
-  "lon": -1.5467940
+  "lat": 47.2049825,
+  "lon": -1.5468067
 },
 {
   "type": "node",
@@ -56330,8 +56339,8 @@
 {
   "type": "node",
   "id": 6929946775,
-  "lat": 47.2050798,
-  "lon": -1.5458025
+  "lat": 47.2050680,
+  "lon": -1.5459111
 },
 {
   "type": "node",
