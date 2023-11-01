@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-31T18:51:35Z",
-    "timestamp_areas_base": "2023-10-31T17:26:07Z",
+    "timestamp_osm_base": "2023-11-01T18:51:45Z",
+    "timestamp_areas_base": "2023-11-01T16:01:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4176,8 +4176,10 @@
   "tags": {
     "leisure": "park",
     "name": "Square du Maquis-de-Saffré",
+    "name:br": "Skwar Strouezheg Saverieg",
     "name:etymology:wikidata": "Q3287286",
     "source": "survey",
+    "source:name:br": "proper translation",
     "wikidata": "Q3495038",
     "wikipedia": "fr:Square du Maquis-de-Saffré"
   }

@@ -18253,8 +18253,10 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Maquis-de-Saffré",
+    "name:br": "Skwar Strouezheg Saverieg",
     "name:etymology:wikidata": "Q3287286",
     "source": "survey",
+    "source:name:br": "proper translation",
     "wikidata": "Q3495038",
     "wikipedia": "fr:Square du Maquis-de-Saffré",
     "id": "way/134926989"
