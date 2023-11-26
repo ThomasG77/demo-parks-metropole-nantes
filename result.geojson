@@ -5021,6 +5021,7 @@
   "type": "Feature",
   "id": "way/27590530",
   "properties": {
+    "image:streetsign": "https://commons.wikimedia.org/wiki/File:Panneau_Jardin_des_Mara%C3%AEches,_Nantes.jpg",
     "leisure": "park",
     "name": "Square des Maraîches",
     "opening_hours": "24/7",
