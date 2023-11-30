@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-29T18:51:29Z",
-    "timestamp_areas_base": "2023-11-29T15:12:35Z",
+    "timestamp_osm_base": "2023-11-30T18:51:45Z",
+    "timestamp_areas_base": "2023-11-30T13:26:22Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2706,7 +2706,9 @@
     "barrier": "fence",
     "leisure": "park",
     "name": "Square des Combattants d'Afrique du Nord",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+    "opening_hours": "sunrise-sunset",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-des-combattants-dafrique-du-nord/"
   }
 },
 {

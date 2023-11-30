@@ -13254,7 +13254,9 @@
     "barrier": "fence",
     "leisure": "park",
     "name": "Square des Combattants d'Afrique du Nord",
+    "opening_hours": "sunrise-sunset",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-des-combattants-dafrique-du-nord/",
     "id": "way/52128123"
   },
   "geometry": {
