@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-01-05T18:52:05Z",
-    "timestamp_areas_base": "2024-01-05T17:53:15Z",
+    "timestamp_osm_base": "2024-01-06T18:51:14Z",
+    "timestamp_areas_base": "2024-01-06T16:40:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13355,6 +13355,31 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1237494696,
+  "nodes": [
+    11494142482,
+    11494142481,
+    11494142480,
+    11494134532,
+    11494134531,
+    11494134548,
+    11494134530,
+    11494142479,
+    11494142478,
+    11494142477,
+    11494142476,
+    11494142475,
+    11494142482
+  ],
+  "tags": {
+    "access": "yes",
+    "leisure": "park",
+    "name": "Square de l'Hôtel de ville",
+    "operator": "Mairie de Saint-Herblain"
   }
 },
 {
@@ -37844,6 +37869,78 @@
   "id": 621787502,
   "lat": 47.2145364,
   "lon": -1.6450998
+},
+{
+  "type": "node",
+  "id": 11494134530,
+  "lat": 47.2105034,
+  "lon": -1.6484782
+},
+{
+  "type": "node",
+  "id": 11494134531,
+  "lat": 47.2105100,
+  "lon": -1.6485112
+},
+{
+  "type": "node",
+  "id": 11494134532,
+  "lat": 47.2105226,
+  "lon": -1.6485747
+},
+{
+  "type": "node",
+  "id": 11494134548,
+  "lat": 47.2105068,
+  "lon": -1.6484952
+},
+{
+  "type": "node",
+  "id": 11494142475,
+  "lat": 47.2101011,
+  "lon": -1.6491193
+},
+{
+  "type": "node",
+  "id": 11494142476,
+  "lat": 47.2100514,
+  "lon": -1.6488981
+},
+{
+  "type": "node",
+  "id": 11494142477,
+  "lat": 47.2101002,
+  "lon": -1.6488779
+},
+{
+  "type": "node",
+  "id": 11494142478,
+  "lat": 47.2100332,
+  "lon": -1.6485930
+},
+{
+  "type": "node",
+  "id": 11494142479,
+  "lat": 47.2104878,
+  "lon": -1.6483998
+},
+{
+  "type": "node",
+  "id": 11494142480,
+  "lat": 47.2105607,
+  "lon": -1.6487660
+},
+{
+  "type": "node",
+  "id": 11494142481,
+  "lat": 47.2104915,
+  "lon": -1.6489269
+},
+{
+  "type": "node",
+  "id": 11494142482,
+  "lat": 47.2101498,
+  "lon": -1.6490945
 },
 {
   "type": "node",
