@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-01-07T18:51:20Z",
-    "timestamp_areas_base": "2024-01-07T17:26:00Z",
+    "timestamp_osm_base": "2024-01-08T18:51:54Z",
+    "timestamp_areas_base": "2024-01-08T16:31:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -149,6 +149,8 @@
     "name": "Parc du Grand Blottereau",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "wikidata": "Q3364347",
     "wikipedia": "fr:Parc du Grand-Blottereau"
   }
@@ -10347,6 +10349,8 @@
     1968162805,
     1968162816,
     1968162818,
+    11499958030,
+    11499958029,
     1968162850,
     1968162901,
     1968162929,
@@ -61098,9 +61102,9 @@
 },
 {
   "type": "node",
-  "id": 1968162850,
-  "lat": 47.2491414,
-  "lon": -1.5602155
+  "id": 1968162818,
+  "lat": 47.2486528,
+  "lon": -1.5597796
 },
 {
   "type": "node",
@@ -61125,6 +61129,12 @@
   "id": 1968162933,
   "lat": 47.2501531,
   "lon": -1.5603846
+},
+{
+  "type": "node",
+  "id": 11499958030,
+  "lat": 47.2489284,
+  "lon": -1.5599245
 },
 {
   "type": "node",
@@ -61446,9 +61456,9 @@
 },
 {
   "type": "node",
-  "id": 1968162818,
-  "lat": 47.2484811,
-  "lon": -1.5596730
+  "id": 1968162850,
+  "lat": 47.2494020,
+  "lon": -1.5593319
 },
 {
   "type": "node",
@@ -61461,6 +61471,12 @@
   "id": 1968162929,
   "lat": 47.2500759,
   "lon": -1.5596693
+},
+{
+  "type": "node",
+  "id": 11499958029,
+  "lat": 47.2491766,
+  "lon": -1.5594154
 },
 {
   "type": "node",

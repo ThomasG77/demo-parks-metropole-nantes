@@ -4664,6 +4664,8 @@
     "name": "Parc du Grand Blottereau",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q12191",
     "wikidata": "Q3364347",
     "wikipedia": "fr:Parc du Grand-Blottereau",
     "id": "way/27532467"
@@ -38863,12 +38865,20 @@
           47.2484758
         ],
         [
-          -1.559673,
-          47.2484811
+          -1.5597796,
+          47.2486528
         ],
         [
-          -1.5602155,
-          47.2491414
+          -1.5599245,
+          47.2489284
+        ],
+        [
+          -1.5594154,
+          47.2491766
+        ],
+        [
+          -1.5593319,
+          47.249402
         ],
         [
           -1.5591306,
