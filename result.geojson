@@ -14091,7 +14091,9 @@
   "id": "way/81972467",
   "properties": {
     "leisure": "park",
-    "name": "île Clémentine",
+    "name": "Île Clémentine",
+    "opening_hours": "\"Accès à l'île interdit lors des périodes de crues.\"",
+    "place": "island",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "id": "way/81972467"
   },
