@@ -40477,6 +40477,8 @@
     "foot": "yes",
     "leisure": "park",
     "name": "Parc du Château de la Droitière",
+    "name:br": "Park Kastell La Droitière",
+    "source:name:br": "proper translation",
     "id": "way/624269437"
   },
   "geometry": {

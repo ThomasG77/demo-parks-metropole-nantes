@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-01-26T18:51:46Z",
-    "timestamp_areas_base": "2024-01-26T14:05:25Z",
+    "timestamp_osm_base": "2024-01-27T18:51:49Z",
+    "timestamp_areas_base": "2024-01-27T14:22:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10860,7 +10860,9 @@
     "access": "customers",
     "foot": "yes",
     "leisure": "park",
-    "name": "Parc du Château de la Droitière"
+    "name": "Parc du Château de la Droitière",
+    "name:br": "Park Kastell La Droitière",
+    "source:name:br": "proper translation"
   }
 },
 {
