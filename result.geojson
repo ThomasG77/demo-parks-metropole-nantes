@@ -1546,9 +1546,11 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin des Douves du château",
+    "name:br": "Liorzh Douvezioù ar C'hastell",
     "opening_hours": "08:00-19:00; Jul-Aug 08:00-20:00",
     "opening_hours:lastcheck": "2023-12-02",
     "opening_hours:url": "https://www.chateaunantes.fr/infos-pratiques/horaires-et-acces/",
+    "source:name:br": "proper translation",
     "type": "multipolygon",
     "id": "relation/1934437"
   },
