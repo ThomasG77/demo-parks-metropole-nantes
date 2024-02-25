@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-24T18:52:03Z",
-    "timestamp_areas_base": "2024-02-24T13:59:26Z",
+    "timestamp_osm_base": "2024-02-25T18:51:59Z",
+    "timestamp_areas_base": "2024-02-25T14:21:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1211,6 +1211,21 @@
     "name": "Parc de la Houssais",
     "opening_hours": "24/7",
     "operator": "Mairie de Rezé"
+  }
+},
+{
+  "type": "way",
+  "id": 33715638,
+  "nodes": [
+    385498374,
+    385498377,
+    385498379,
+    385498384,
+    385498374
+  ],
+  "tags": {
+    "leisure": "park",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
   }
 },
 {
@@ -11971,7 +11986,6 @@
     7333059747,
     7333059746,
     7333059745,
-    7333059744,
     7333059743,
     7333059742,
     7333059741,
@@ -28766,32 +28780,26 @@
 {
   "type": "node",
   "id": 7333059742,
-  "lat": 47.1724910,
-  "lon": -1.5636688
+  "lat": 47.1724543,
+  "lon": -1.5636508
 },
 {
   "type": "node",
   "id": 7333059743,
-  "lat": 47.1726350,
-  "lon": -1.5632196
-},
-{
-  "type": "node",
-  "id": 7333059744,
-  "lat": 47.1725776,
-  "lon": -1.5632504
+  "lat": 47.1725815,
+  "lon": -1.5632661
 },
 {
   "type": "node",
   "id": 7333059745,
-  "lat": 47.1725111,
-  "lon": -1.5632612
+  "lat": 47.1725076,
+  "lon": -1.5632897
 },
 {
   "type": "node",
   "id": 7333059746,
-  "lat": 47.1723315,
-  "lon": -1.5631686
+  "lat": 47.1723303,
+  "lon": -1.5631987
 },
 {
   "type": "node",
@@ -37768,6 +37776,30 @@
   "id": 7455191026,
   "lat": 47.1836087,
   "lon": -1.5199433
+},
+{
+  "type": "node",
+  "id": 385498374,
+  "lat": 47.1979732,
+  "lon": -1.4902863
+},
+{
+  "type": "node",
+  "id": 385498377,
+  "lat": 47.1981898,
+  "lon": -1.4908233
+},
+{
+  "type": "node",
+  "id": 385498379,
+  "lat": 47.1978093,
+  "lon": -1.4911226
+},
+{
+  "type": "node",
+  "id": 385498384,
+  "lat": 47.1976196,
+  "lon": -1.4905875
 },
 {
   "type": "node",
