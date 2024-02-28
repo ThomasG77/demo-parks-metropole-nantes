@@ -6510,6 +6510,7 @@
     "leisure": "park",
     "name": "Parc Paul Allain",
     "name:br": "Park Paul Allain",
+    "name:etymology:wikidata": "Q124680020",
     "source:name:br": "proper translation",
     "id": "way/29261545"
   },
