@@ -14248,9 +14248,11 @@
   "properties": {
     "leisure": "park",
     "name": "Île Clémentine",
+    "name:br": "Enez Clémentine",
     "opening_hours": "\"Accès à l'île interdit lors des périodes de crues.\"",
     "place": "island",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:name:br": "proper translation",
     "id": "way/81972467"
   },
   "geometry": {
