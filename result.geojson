@@ -22348,7 +22348,6 @@
   "type": "Feature",
   "id": "way/154693611",
   "properties": {
-    "landuse": "grass",
     "leisure": "park",
     "name": "Le Grand Pré",
     "id": "way/154693611"
@@ -22517,7 +22516,6 @@
   "type": "Feature",
   "id": "way/154693619",
   "properties": {
-    "landuse": "grass",
     "leisure": "park",
     "name": "Le Grand Pré",
     "id": "way/154693619"
