@@ -7296,7 +7296,7 @@
     "barrier": "wall",
     "leisure": "park",
     "name": "Parc de la Carterie",
-    "opening_hours": "07:45-20:30; Oct-Mar 07:45-18:30",
+    "opening_hours": "Apr 01-Sep 30 Mo-Su 07:45-20:30; Oct 01-Mar 31 Mo-Su 07:45-18:30",
     "id": "way/31694324"
   },
   "geometry": {
