@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-15T18:51:15Z",
-    "timestamp_areas_base": "2024-09-15T14:20:01Z",
+    "timestamp_osm_base": "2024-09-16T18:51:26Z",
+    "timestamp_areas_base": "2024-09-16T15:06:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14209,6 +14209,29 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1315995117,
+  "nodes": [
+    12180720479,
+    12180720471,
+    12180720472,
+    12180720473,
+    12180720474,
+    12178440173,
+    12180720480,
+    12180720481,
+    12180720482,
+    12180720483,
+    12180720484,
+    12180720479
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Jardin de la Persagotière",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/jardin-de-la-persagotiere/"
   }
 },
 {
@@ -36825,6 +36848,72 @@
   "id": 11201564099,
   "lat": 47.1934207,
   "lon": -1.5338126
+},
+{
+  "type": "node",
+  "id": 12178440173,
+  "lat": 47.1920733,
+  "lon": -1.5377475
+},
+{
+  "type": "node",
+  "id": 12180720471,
+  "lat": 47.1915215,
+  "lon": -1.5371832
+},
+{
+  "type": "node",
+  "id": 12180720472,
+  "lat": 47.1917705,
+  "lon": -1.5374250
+},
+{
+  "type": "node",
+  "id": 12180720473,
+  "lat": 47.1917797,
+  "lon": -1.5375002
+},
+{
+  "type": "node",
+  "id": 12180720474,
+  "lat": 47.1918487,
+  "lon": -1.5375701
+},
+{
+  "type": "node",
+  "id": 12180720479,
+  "lat": 47.1912701,
+  "lon": -1.5376345
+},
+{
+  "type": "node",
+  "id": 12180720480,
+  "lat": 47.1923268,
+  "lon": -1.5380153
+},
+{
+  "type": "node",
+  "id": 12180720481,
+  "lat": 47.1925165,
+  "lon": -1.5382523
+},
+{
+  "type": "node",
+  "id": 12180720482,
+  "lat": 47.1922670,
+  "lon": -1.5387401
+},
+{
+  "type": "node",
+  "id": 12180720483,
+  "lat": 47.1917571,
+  "lon": -1.5380449
+},
+{
+  "type": "node",
+  "id": 12180720484,
+  "lat": 47.1915286,
+  "lon": -1.5377988
 },
 {
   "type": "node",
