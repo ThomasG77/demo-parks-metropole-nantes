@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-10-10T18:52:05Z",
-    "timestamp_areas_base": "2024-10-08T10:29:11Z",
+    "timestamp_osm_base": "2024-10-11T18:51:29Z",
+    "timestamp_areas_base": "2024-10-09T00:21:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13154,29 +13154,6 @@
 },
 {
   "type": "way",
-  "id": 993834655,
-  "nodes": [
-    9181966832,
-    9438227092,
-    10151397092,
-    9181966834,
-    12120586000,
-    12120585991,
-    6883720038,
-    12120585985,
-    9181966832
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Square Marie-Madeleine Fourcade",
-    "name:br": "Skwar Marie-Madeleine Fourcade",
-    "name:etymology:wikidata": "Q3292123",
-    "source:name:br": "proper translation",
-    "wikidata": "Q127297054"
-  }
-},
-{
-  "type": "way",
   "id": 1011484518,
   "nodes": [
     9332378175,
@@ -14428,6 +14405,26 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1323129533,
+  "nodes": [
+    12243627762,
+    9438227092,
+    10151397092,
+    12243627760,
+    12243627761,
+    12243627762
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Square Marie-Madeleine Fourcade",
+    "name:br": "Skwar Marie-Madeleine Fourcade",
+    "name:etymology:wikidata": "Q3292123",
+    "source:name:br": "proper translation",
+    "wikidata": "Q127297054"
   }
 },
 {
@@ -75165,12 +75162,6 @@
 },
 {
   "type": "node",
-  "id": 6883720038,
-  "lat": 47.2628311,
-  "lon": -1.5194207
-},
-{
-  "type": "node",
   "id": 8661155626,
   "lat": 47.2677125,
   "lon": -1.5139292
@@ -75180,18 +75171,6 @@
   "id": 8661155629,
   "lat": 47.2676233,
   "lon": -1.5140000
-},
-{
-  "type": "node",
-  "id": 9181966832,
-  "lat": 47.2636801,
-  "lon": -1.5193312
-},
-{
-  "type": "node",
-  "id": 9181966834,
-  "lat": 47.2627912,
-  "lon": -1.5184131
 },
 {
   "type": "node",
@@ -75207,21 +75186,21 @@
 },
 {
   "type": "node",
-  "id": 12120585985,
-  "lat": 47.2636669,
-  "lon": -1.5193326
+  "id": 12243627760,
+  "lat": 47.2628229,
+  "lon": -1.5184119
 },
 {
   "type": "node",
-  "id": 12120585991,
-  "lat": 47.2628276,
-  "lon": -1.5193335
+  "id": 12243627761,
+  "lat": 47.2628530,
+  "lon": -1.5193628
 },
 {
   "type": "node",
-  "id": 12120586000,
-  "lat": 47.2627964,
-  "lon": -1.5185447
+  "id": 12243627762,
+  "lat": 47.2636691,
+  "lon": -1.5192900
 },
 {
   "type": "node",

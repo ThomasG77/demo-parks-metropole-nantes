@@ -48047,62 +48047,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/993834655",
-  "properties": {
-    "leisure": "park",
-    "name": "Square Marie-Madeleine Fourcade",
-    "name:br": "Skwar Marie-Madeleine Fourcade",
-    "name:etymology:wikidata": "Q3292123",
-    "source:name:br": "proper translation",
-    "wikidata": "Q127297054",
-    "id": "way/993834655"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.5193312,
-          47.2636801
-        ],
-        [
-          -1.5193326,
-          47.2636669
-        ],
-        [
-          -1.5194207,
-          47.2628311
-        ],
-        [
-          -1.5193335,
-          47.2628276
-        ],
-        [
-          -1.5185447,
-          47.2627964
-        ],
-        [
-          -1.5184131,
-          47.2627912
-        ],
-        [
-          -1.5184102,
-          47.2628679
-        ],
-        [
-          -1.5183629,
-          47.2634228
-        ],
-        [
-          -1.5193312,
-          47.2636801
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1011484518",
   "properties": {
     "leisure": "park",
@@ -52078,6 +52022,50 @@
         [
           -1.7312698,
           47.2082254
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1323129533",
+  "properties": {
+    "leisure": "park",
+    "name": "Square Marie-Madeleine Fourcade",
+    "name:br": "Skwar Marie-Madeleine Fourcade",
+    "name:etymology:wikidata": "Q3292123",
+    "source:name:br": "proper translation",
+    "wikidata": "Q127297054",
+    "id": "way/1323129533"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.51929,
+          47.2636691
+        ],
+        [
+          -1.5193628,
+          47.262853
+        ],
+        [
+          -1.5184119,
+          47.2628229
+        ],
+        [
+          -1.5184102,
+          47.2628679
+        ],
+        [
+          -1.5183629,
+          47.2634228
+        ],
+        [
+          -1.51929,
+          47.2636691
         ]
       ]
     ]
