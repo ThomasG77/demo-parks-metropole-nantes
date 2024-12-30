@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-29T18:51:59Z",
-    "timestamp_areas_base": "2024-12-29T17:40:30Z",
+    "timestamp_osm_base": "2024-12-30T18:51:25Z",
+    "timestamp_areas_base": "2024-12-30T13:36:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
