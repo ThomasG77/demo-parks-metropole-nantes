@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-15T18:51:13Z",
-    "timestamp_areas_base": "2025-01-15T12:33:30Z",
+    "timestamp_osm_base": "2025-01-16T18:51:12Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3109,6 +3109,7 @@
     "leisure": "park",
     "name": "Place Général Mellinet",
     "name:br": "Plasenn Jeneral Mellinet",
+    "opening_hours": "24/7",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation"
   }
@@ -5143,7 +5144,8 @@
   ],
   "tags": {
     "barrier": "fence",
-    "leisure": "park"
+    "leisure": "park",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -10052,6 +10054,8 @@
     5250868077,
     5250913357,
     1000033066,
+    11568612463,
+    11568612462,
     5250868076,
     5250868079
   ],
@@ -58151,8 +58155,8 @@
 {
   "type": "node",
   "id": 5250868076,
-  "lat": 47.2160879,
-  "lon": -1.5636669
+  "lat": 47.2160673,
+  "lon": -1.5636451
 },
 {
   "type": "node",
@@ -58291,6 +58295,18 @@
   "id": 5445178854,
   "lat": 47.2181920,
   "lon": -1.5633711
+},
+{
+  "type": "node",
+  "id": 11568612462,
+  "lat": 47.2161006,
+  "lon": -1.5636076
+},
+{
+  "type": "node",
+  "id": 11568612463,
+  "lat": 47.2161240,
+  "lon": -1.5636360
 },
 {
   "type": "node",

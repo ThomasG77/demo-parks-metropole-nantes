@@ -14424,6 +14424,7 @@
     "leisure": "park",
     "name": "Place Général Mellinet",
     "name:br": "Plasenn Jeneral Mellinet",
+    "opening_hours": "24/7",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "id": "way/76937576"
@@ -21460,6 +21461,7 @@
   "properties": {
     "barrier": "fence",
     "leisure": "park",
+    "opening_hours": "24/7",
     "id": "way/153474159"
   },
   "geometry": {
@@ -37924,8 +37926,16 @@
           47.216269
         ],
         [
-          -1.5636669,
-          47.2160879
+          -1.563636,
+          47.216124
+        ],
+        [
+          -1.5636076,
+          47.2161006
+        ],
+        [
+          -1.5636451,
+          47.2160673
         ],
         [
           -1.5636402,
