@@ -21342,7 +21342,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Plessis Tison",
-    "opening_hours": "Oct 23-Nov 17 09:00-18:15; Nov 18-Jan 14 09:00-17:15; Jan 15-Mar 19 09:00-18:15; Mar 20-Oct 22 09:00-19:45",
+    "opening_hours": "Oct 23-Nov 17 09:00-18:15; Nov 18-Jan 14 09:00-17:15; Jan 15-Mar 19 09:00-18:00; Mar 20-Oct 22 09:00-19:45",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "wikidata": "Q16509994",
     "id": "way/147426758"
