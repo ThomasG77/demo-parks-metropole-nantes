@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-02-24T18:51:03Z",
+    "timestamp_osm_base": "2025-02-25T18:52:01Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2186,6 +2186,7 @@
     727958645,
     582726391,
     727958255,
+    12616530704,
     582726388,
     582726389,
     4897151230,
@@ -2283,6 +2284,8 @@
     "name:etymology:wikidata": "Q766664",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "start_date": "1933-09-27",
@@ -28483,6 +28486,12 @@
   "id": 8331706211,
   "lat": 47.1989088,
   "lon": -1.5853612
+},
+{
+  "type": "node",
+  "id": 12616530704,
+  "lat": 47.2011954,
+  "lon": -1.5818463
 },
 {
   "type": "node",

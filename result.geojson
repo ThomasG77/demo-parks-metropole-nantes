@@ -11433,6 +11433,8 @@
     "name:etymology:wikidata": "Q766664",
     "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "start_date": "1933-09-27",
@@ -11689,6 +11691,10 @@
         [
           -1.5818659,
           47.2012465
+        ],
+        [
+          -1.5818463,
+          47.2011954
         ],
         [
           -1.5817127,
