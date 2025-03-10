@@ -24786,6 +24786,7 @@
   "type": "Feature",
   "id": "way/178757713",
   "properties": {
+    "alt_name": "CRAPA",
     "leisure": "park",
     "name": "Parc de Beaulieu",
     "name:br": "Park Beaulieu",
