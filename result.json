@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-03-28T18:52:00Z",
+    "timestamp_osm_base": "2025-03-29T18:51:39Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -9002,12 +9002,15 @@
     890439237
   ],
   "tags": {
-    "access": "no",
+    "check_date": "2025-03-18",
     "leisure": "park",
     "name": "Square Commandant Aubin",
     "name:br": "Skwar Komandant Albin",
     "name:etymology:wikidata": "Q110824043",
-    "source:name:br": "proper translation"
+    "note": "Le site de la mairie de Nantes indique que le parc est fermé (vérifié le 29/03/2025), mais après une visite sur place, il est bel et bien ouvert et accessible, bien qu'une petite partie soit en travaux.",
+    "source:name:br": "proper translation",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-commandant-aubin/",
+    "wikidata": "Q127271121"
   }
 },
 {
@@ -28668,8 +28671,8 @@
 {
   "type": "node",
   "id": 890439237,
-  "lat": 47.2020779,
-  "lon": -1.5764594
+  "lat": 47.2020440,
+  "lon": -1.5764931
 },
 {
   "type": "node",

@@ -34354,12 +34354,15 @@
   "type": "Feature",
   "id": "way/453109527",
   "properties": {
-    "access": "no",
+    "check_date": "2025-03-18",
     "leisure": "park",
     "name": "Square Commandant Aubin",
     "name:br": "Skwar Komandant Albin",
     "name:etymology:wikidata": "Q110824043",
+    "note": "Le site de la mairie de Nantes indique que le parc est fermé (vérifié le 29/03/2025), mais après une visite sur place, il est bel et bien ouvert et accessible, bien qu'une petite partie soit en travaux.",
     "source:name:br": "proper translation",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-commandant-aubin/",
+    "wikidata": "Q127271121",
     "id": "way/453109527"
   },
   "geometry": {
@@ -34367,8 +34370,8 @@
     "coordinates": [
       [
         [
-          -1.5764594,
-          47.2020779
+          -1.5764931,
+          47.202044
         ],
         [
           -1.576372,
@@ -34603,8 +34606,8 @@
           47.2018805
         ],
         [
-          -1.5764594,
-          47.2020779
+          -1.5764931,
+          47.202044
         ]
       ]
     ]
