@@ -53556,6 +53556,112 @@
       ]
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "way/1373021413",
+  "properties": {
+    "description": "Base naturelle de loisir, située dans une ancienne carrière. Entrée payante de juillet à début septembre. Entrée libre et gratuite le reste de l'année.",
+    "fixme": "Limites précises à vérifier.",
+    "leisure": "park",
+    "name": "Site naturel de loisir de la Roche Ballue",
+    "resort": "recreation_center",
+    "website": "https://www.bouguenais.fr/fr/roche-ballue",
+    "wikidata": "Q110068205",
+    "wikipedia": "fr:La Roche Ballue",
+    "id": "way/1373021413"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6520131,
+          47.1857877
+        ],
+        [
+          -1.6536451,
+          47.1859877
+        ],
+        [
+          -1.6553204,
+          47.1861572
+        ],
+        [
+          -1.6557507,
+          47.1858831
+        ],
+        [
+          -1.656159,
+          47.1855962
+        ],
+        [
+          -1.656277,
+          47.1849584
+        ],
+        [
+          -1.6561861,
+          47.1842596
+        ],
+        [
+          -1.6548349,
+          47.1834776
+        ],
+        [
+          -1.6553155,
+          47.1828852
+        ],
+        [
+          -1.65438,
+          47.1823616
+        ],
+        [
+          -1.653569,
+          47.1821314
+        ],
+        [
+          -1.6524884,
+          47.1823152
+        ],
+        [
+          -1.6517473,
+          47.1822422
+        ],
+        [
+          -1.6510822,
+          47.1827106
+        ],
+        [
+          -1.6509952,
+          47.1830596
+        ],
+        [
+          -1.6506195,
+          47.1831163
+        ],
+        [
+          -1.6506104,
+          47.1836267
+        ],
+        [
+          -1.6507668,
+          47.1840659
+        ],
+        [
+          -1.6504849,
+          47.1847871
+        ],
+        [
+          -1.6507589,
+          47.1858041
+        ],
+        [
+          -1.6520131,
+          47.1857877
+        ]
+      ]
+    ]
+  }
 }
 ]
 }

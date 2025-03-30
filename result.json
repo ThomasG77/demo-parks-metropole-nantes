@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-03-29T18:51:39Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-03-30T18:50:59Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14869,6 +14869,43 @@
   }
 },
 {
+  "type": "way",
+  "id": 1373021413,
+  "nodes": [
+    12713050836,
+    12713050837,
+    12714110189,
+    12713050844,
+    12713050843,
+    12713050842,
+    12713050838,
+    12713050841,
+    12713050840,
+    12713050839,
+    12713050852,
+    12713050853,
+    12713050851,
+    12713050850,
+    12713050849,
+    12713050848,
+    12713050847,
+    12713050846,
+    12714110190,
+    12714110188,
+    12713050836
+  ],
+  "tags": {
+    "description": "Base naturelle de loisir, située dans une ancienne carrière. Entrée payante de juillet à début septembre. Entrée libre et gratuite le reste de l'année.",
+    "fixme": "Limites précises à vérifier.",
+    "leisure": "park",
+    "name": "Site naturel de loisir de la Roche Ballue",
+    "resort": "recreation_center",
+    "website": "https://www.bouguenais.fr/fr/roche-ballue",
+    "wikidata": "Q110068205",
+    "wikipedia": "fr:La Roche Ballue"
+  }
+},
+{
   "type": "relation",
   "id": 341506,
   "members": [
@@ -21068,6 +21105,84 @@
 },
 {
   "type": "node",
+  "id": 12713050839,
+  "lat": 47.1823152,
+  "lon": -1.6524884
+},
+{
+  "type": "node",
+  "id": 12713050840,
+  "lat": 47.1822422,
+  "lon": -1.6517473
+},
+{
+  "type": "node",
+  "id": 12713050852,
+  "lat": 47.1821314,
+  "lon": -1.6535690
+},
+{
+  "type": "node",
+  "id": 12713050853,
+  "lat": 47.1823616,
+  "lon": -1.6543800
+},
+{
+  "type": "node",
+  "id": 12713050836,
+  "lat": 47.1857877,
+  "lon": -1.6520131
+},
+{
+  "type": "node",
+  "id": 12713050846,
+  "lat": 47.1858831,
+  "lon": -1.6557507
+},
+{
+  "type": "node",
+  "id": 12713050847,
+  "lat": 47.1855962,
+  "lon": -1.6561590
+},
+{
+  "type": "node",
+  "id": 12713050848,
+  "lat": 47.1849584,
+  "lon": -1.6562770
+},
+{
+  "type": "node",
+  "id": 12713050849,
+  "lat": 47.1842596,
+  "lon": -1.6561861
+},
+{
+  "type": "node",
+  "id": 12713050850,
+  "lat": 47.1834776,
+  "lon": -1.6548349
+},
+{
+  "type": "node",
+  "id": 12713050851,
+  "lat": 47.1828852,
+  "lon": -1.6553155
+},
+{
+  "type": "node",
+  "id": 12714110188,
+  "lat": 47.1859877,
+  "lon": -1.6536451
+},
+{
+  "type": "node",
+  "id": 12714110190,
+  "lat": 47.1861572,
+  "lon": -1.6553204
+},
+{
+  "type": "node",
   "id": 517774895,
   "lat": 47.1946816,
   "lon": -1.6528591
@@ -21149,6 +21264,48 @@
   "id": 2139029590,
   "lat": 47.1952920,
   "lon": -1.6541429
+},
+{
+  "type": "node",
+  "id": 12713050837,
+  "lat": 47.1858041,
+  "lon": -1.6507589
+},
+{
+  "type": "node",
+  "id": 12713050838,
+  "lat": 47.1830596,
+  "lon": -1.6509952
+},
+{
+  "type": "node",
+  "id": 12713050841,
+  "lat": 47.1827106,
+  "lon": -1.6510822
+},
+{
+  "type": "node",
+  "id": 12713050842,
+  "lat": 47.1831163,
+  "lon": -1.6506195
+},
+{
+  "type": "node",
+  "id": 12713050843,
+  "lat": 47.1836267,
+  "lon": -1.6506104
+},
+{
+  "type": "node",
+  "id": 12713050844,
+  "lat": 47.1840659,
+  "lon": -1.6507668
+},
+{
+  "type": "node",
+  "id": 12714110189,
+  "lat": 47.1847871,
+  "lon": -1.6504849
 },
 {
   "type": "node",
