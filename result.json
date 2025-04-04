@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-03T18:51:52Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-04-04T18:51:51Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1197,7 +1197,7 @@
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
-    "operator:wikidata": "Q12191",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation"
   }
@@ -4716,7 +4716,7 @@
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
-    "operator:wikidata": "Q12191",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "start_date": "1930s",
@@ -9655,6 +9655,30 @@
 },
 {
   "type": "way",
+  "id": 531498150,
+  "nodes": [
+    5159365943,
+    5159365944,
+    5159365945,
+    5159365946,
+    5159365947,
+    5159365948,
+    5159365949,
+    5159365950,
+    5159365951,
+    1119033285,
+    1119099786,
+    1119078789,
+    1119064385,
+    1119033710,
+    5159365943
+  ],
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
   "id": 531498177,
   "nodes": [
     5159366288,
@@ -9925,6 +9949,27 @@
     1119062838,
     1119133236,
     5163505633
+  ],
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 532292847,
+  "nodes": [
+    5165570279,
+    1119129505,
+    1119083323,
+    5165570280,
+    5165570281,
+    7004080510,
+    5165570282,
+    5165570283,
+    7004080508,
+    7004080515,
+    5165570284,
+    5165570279
   ],
   "tags": {
     "leisure": "park"
@@ -33026,6 +33071,156 @@
   "id": 11999313709,
   "lat": 47.1748072,
   "lon": -1.5527760
+},
+{
+  "type": "node",
+  "id": 1119033285,
+  "lat": 47.1509740,
+  "lon": -1.5289670
+},
+{
+  "type": "node",
+  "id": 1119033710,
+  "lat": 47.1510490,
+  "lon": -1.5293360
+},
+{
+  "type": "node",
+  "id": 1119064385,
+  "lat": 47.1510370,
+  "lon": -1.5292760
+},
+{
+  "type": "node",
+  "id": 1119078789,
+  "lat": 47.1510250,
+  "lon": -1.5292220
+},
+{
+  "type": "node",
+  "id": 1119083323,
+  "lat": 47.1517010,
+  "lon": -1.5325040
+},
+{
+  "type": "node",
+  "id": 1119099786,
+  "lat": 47.1509780,
+  "lon": -1.5289880
+},
+{
+  "type": "node",
+  "id": 1119129505,
+  "lat": 47.1517570,
+  "lon": -1.5324690
+},
+{
+  "type": "node",
+  "id": 5159365943,
+  "lat": 47.1510941,
+  "lon": -1.5295469
+},
+{
+  "type": "node",
+  "id": 5159365944,
+  "lat": 47.1512417,
+  "lon": -1.5294803
+},
+{
+  "type": "node",
+  "id": 5159365945,
+  "lat": 47.1511639,
+  "lon": -1.5291103
+},
+{
+  "type": "node",
+  "id": 5159365946,
+  "lat": 47.1513115,
+  "lon": -1.5290417
+},
+{
+  "type": "node",
+  "id": 5159365947,
+  "lat": 47.1512634,
+  "lon": -1.5289320
+},
+{
+  "type": "node",
+  "id": 5159365948,
+  "lat": 47.1512323,
+  "lon": -1.5288400
+},
+{
+  "type": "node",
+  "id": 5159365949,
+  "lat": 47.1512071,
+  "lon": -1.5288517
+},
+{
+  "type": "node",
+  "id": 5159365950,
+  "lat": 47.1511840,
+  "lon": -1.5288613
+},
+{
+  "type": "node",
+  "id": 5159365951,
+  "lat": 47.1509718,
+  "lon": -1.5289564
+},
+{
+  "type": "node",
+  "id": 5165570279,
+  "lat": 47.1518518,
+  "lon": -1.5328035
+},
+{
+  "type": "node",
+  "id": 5165570280,
+  "lat": 47.1516258,
+  "lon": -1.5325509
+},
+{
+  "type": "node",
+  "id": 5165570281,
+  "lat": 47.1515533,
+  "lon": -1.5322797
+},
+{
+  "type": "node",
+  "id": 5165570282,
+  "lat": 47.1513985,
+  "lon": -1.5324624
+},
+{
+  "type": "node",
+  "id": 5165570283,
+  "lat": 47.1514694,
+  "lon": -1.5327021
+},
+{
+  "type": "node",
+  "id": 5165570284,
+  "lat": 47.1516885,
+  "lon": -1.5329215
+},
+{
+  "type": "node",
+  "id": 7004080508,
+  "lat": 47.1514935,
+  "lon": -1.5327580
+},
+{
+  "type": "node",
+  "id": 7004080510,
+  "lat": 47.1514168,
+  "lon": -1.5323668
+},
+{
+  "type": "node",
+  "id": 7004080515,
+  "lat": 47.1515353,
+  "lon": -1.5328082
 },
 {
   "type": "node",

@@ -8291,7 +8291,7 @@
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
-    "operator:wikidata": "Q12191",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "id": "way/32565786"
@@ -19886,7 +19886,7 @@
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
-    "operator:wikidata": "Q12191",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "source:name:br": "proper translation",
     "start_date": "1930s",
@@ -36542,6 +36542,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/531498150",
+  "properties": {
+    "leisure": "park",
+    "id": "way/531498150"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5295469,
+          47.1510941
+        ],
+        [
+          -1.529336,
+          47.151049
+        ],
+        [
+          -1.529276,
+          47.151037
+        ],
+        [
+          -1.529222,
+          47.151025
+        ],
+        [
+          -1.528988,
+          47.150978
+        ],
+        [
+          -1.528967,
+          47.150974
+        ],
+        [
+          -1.5289564,
+          47.1509718
+        ],
+        [
+          -1.5288613,
+          47.151184
+        ],
+        [
+          -1.5288517,
+          47.1512071
+        ],
+        [
+          -1.52884,
+          47.1512323
+        ],
+        [
+          -1.528932,
+          47.1512634
+        ],
+        [
+          -1.5290417,
+          47.1513115
+        ],
+        [
+          -1.5291103,
+          47.1511639
+        ],
+        [
+          -1.5294803,
+          47.1512417
+        ],
+        [
+          -1.5295469,
+          47.1510941
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/531498177",
   "properties": {
     "leisure": "park",
@@ -37493,6 +37568,69 @@
         [
           -1.5243808,
           47.1485521
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/532292847",
+  "properties": {
+    "leisure": "park",
+    "id": "way/532292847"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5328035,
+          47.1518518
+        ],
+        [
+          -1.5329215,
+          47.1516885
+        ],
+        [
+          -1.5328082,
+          47.1515353
+        ],
+        [
+          -1.532758,
+          47.1514935
+        ],
+        [
+          -1.5327021,
+          47.1514694
+        ],
+        [
+          -1.5324624,
+          47.1513985
+        ],
+        [
+          -1.5323668,
+          47.1514168
+        ],
+        [
+          -1.5322797,
+          47.1515533
+        ],
+        [
+          -1.5325509,
+          47.1516258
+        ],
+        [
+          -1.532504,
+          47.151701
+        ],
+        [
+          -1.532469,
+          47.151757
+        ],
+        [
+          -1.5328035,
+          47.1518518
         ]
       ]
     ]
