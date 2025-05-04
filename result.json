@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-03T18:51:05Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-05-04T18:51:26Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -9246,25 +9246,6 @@
     "name": "Parc Joachim Du Bellay",
     "name:br": "Park Joachim du Bellay",
     "source:name:br": "proper translation"
-  }
-},
-{
-  "type": "way",
-  "id": 480085781,
-  "nodes": [
-    4731149522,
-    4775086176,
-    4731149523,
-    4731149524,
-    4731149525,
-    4731149526,
-    1762884428,
-    1762884427,
-    4731149527,
-    4731149522
-  ],
-  "tags": {
-    "leisure": "park"
   }
 },
 {
@@ -82043,8 +82024,8 @@
 {
   "type": "node",
   "id": 4775239034,
-  "lat": 47.2771260,
-  "lon": -1.4432471
+  "lat": 47.2771374,
+  "lon": -1.4432484
 },
 {
   "type": "node",
@@ -82414,18 +82395,6 @@
 },
 {
   "type": "node",
-  "id": 1762884427,
-  "lat": 47.2753289,
-  "lon": -1.4386047
-},
-{
-  "type": "node",
-  "id": 1762884428,
-  "lat": 47.2753605,
-  "lon": -1.4384823
-},
-{
-  "type": "node",
   "id": 4730747379,
   "lat": 47.2763100,
   "lon": -1.4392275
@@ -82577,44 +82546,8 @@
 {
   "type": "node",
   "id": 4730834139,
-  "lat": 47.2756221,
-  "lon": -1.4403915
-},
-{
-  "type": "node",
-  "id": 4731149522,
-  "lat": 47.2753267,
-  "lon": -1.4392771
-},
-{
-  "type": "node",
-  "id": 4731149523,
-  "lat": 47.2749915,
-  "lon": -1.4390603
-},
-{
-  "type": "node",
-  "id": 4731149524,
-  "lat": 47.2752323,
-  "lon": -1.4385279
-},
-{
-  "type": "node",
-  "id": 4731149525,
-  "lat": 47.2752671,
-  "lon": -1.4385513
-},
-{
-  "type": "node",
-  "id": 4731149526,
-  "lat": 47.2752988,
-  "lon": -1.4384812
-},
-{
-  "type": "node",
-  "id": 4731149527,
-  "lat": 47.2754082,
-  "lon": -1.4389716
+  "lat": 47.2759428,
+  "lon": -1.4403519
 },
 {
   "type": "node",
@@ -82777,12 +82710,6 @@
   "id": 4775086175,
   "lat": 47.2776553,
   "lon": -1.4396173
-},
-{
-  "type": "node",
-  "id": 4775086176,
-  "lat": 47.2750181,
-  "lon": -1.4390894
 },
 {
   "type": "node",
