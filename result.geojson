@@ -29290,7 +29290,7 @@
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
-    "operator:wikidata": "Q12191",
+    "operator:wikidata": "Q86693245",
     "wikidata": "Q16509980",
     "wikipedia": "fr:Parc de la Moutonnerie",
     "id": "way/244168581"
@@ -30702,6 +30702,10 @@
         [
           -1.5108216,
           47.2400151
+        ],
+        [
+          -1.5109904,
+          47.2401059
         ],
         [
           -1.5116101,
@@ -33638,6 +33642,8 @@
     "name:br": "Liorzh ar Groaz Santel",
     "opening_hours": "09:00-18:00; Nov 18-Jan 14 09:00-17:00; Mar 20-Oct 22 09:00-20:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q86693245",
     "source:name:br": "proper translation",
     "id": "way/396687978"
   },
