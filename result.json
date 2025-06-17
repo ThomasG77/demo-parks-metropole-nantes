@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-16T18:56:01Z",
+    "timestamp_osm_base": "2025-06-17T18:56:35Z",
     "timestamp_areas_base": "2025-06-15T01:53:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -4594,7 +4594,7 @@
     "leisure": "park",
     "name": "Jardin des Plantes",
     "name:br": "Liorzh ar Plant",
-    "opening_hours": "08:30-20:00; Oct 23-Nov 17,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
+    "opening_hours": "Mar-Oct 08:30-21:30; Oct-Mar 08:30-17:30",
     "panoramax:streetsign": "511c88de-e5f0-4bbf-9047-e7431e677b2f",
     "source:name:br": "proper translation",
     "website": "https://jardins.nantes.fr/",
