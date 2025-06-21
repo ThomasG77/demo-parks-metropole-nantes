@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-20T18:55:30Z",
-    "timestamp_areas_base": "2025-06-20T16:00:15Z",
+    "timestamp_osm_base": "2025-06-21T18:52:20Z",
+    "timestamp_areas_base": "2025-06-21T12:43:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4925,20 +4925,19 @@
   "type": "way",
   "id": 143828934,
   "nodes": [
+    12941306670,
+    1573920894,
+    1573920896,
+    1573920897,
     1573920898,
     1573920899,
     1573920900,
     1573920901,
-    1573920895,
-    3063407193,
-    1573920893,
-    1573920894,
-    1573920896,
-    1573920897,
-    1573920898
+    12941306672,
+    12941306671,
+    12941306670
   ],
   "tags": {
-    "area": "yes",
     "leisure": "park",
     "name": "Square du 1er Mai"
   }
@@ -45785,21 +45784,9 @@
 },
 {
   "type": "node",
-  "id": 1573920893,
-  "lat": 47.2226009,
-  "lon": -1.6029617
-},
-{
-  "type": "node",
   "id": 1573920894,
   "lat": 47.2226524,
   "lon": -1.6029447
-},
-{
-  "type": "node",
-  "id": 1573920895,
-  "lat": 47.2226010,
-  "lon": -1.6033577
 },
 {
   "type": "node",
@@ -45839,9 +45826,21 @@
 },
 {
   "type": "node",
-  "id": 3063407193,
-  "lat": 47.2225866,
-  "lon": -1.6031415
+  "id": 12941306670,
+  "lat": 47.2226040,
+  "lon": -1.6029607
+},
+{
+  "type": "node",
+  "id": 12941306671,
+  "lat": 47.2225901,
+  "lon": -1.6031413
+},
+{
+  "type": "node",
+  "id": 12941306672,
+  "lat": 47.2226052,
+  "lon": -1.6033560
 },
 {
   "type": "node",
