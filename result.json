@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-23T18:56:35Z",
-    "timestamp_areas_base": "2025-06-23T16:42:04Z",
+    "timestamp_osm_base": "2025-06-24T18:56:51Z",
+    "timestamp_areas_base": "2025-06-24T15:14:27Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -680,7 +680,8 @@
     "name": "Parc Paul Allain",
     "name:br": "Park Paul Allain",
     "name:etymology:wikidata": "Q124680020",
-    "source:name:br": "proper translation"
+    "source:name:br": "proper translation",
+    "wikidata": "Q105706860"
   }
 },
 {
@@ -6942,7 +6943,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc des Mahaudières - Jacques Floch"
+    "name": "Parc des Mahaudières - Jacques Floch",
+    "wikidata": "Q105705070"
   }
 },
 {
@@ -15334,7 +15336,8 @@
     "leisure": "park",
     "name": "Parc de La Maison Radieuse",
     "name:etymology:wikidata": "Q2974705",
-    "type": "multipolygon"
+    "type": "multipolygon",
+    "wikidata": "Q105707145"
   }
 },
 {
