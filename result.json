@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-27T18:55:45Z",
+    "timestamp_osm_base": "2025-06-28T18:54:00Z",
     "timestamp_areas_base": "2025-06-25T21:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -151,6 +151,7 @@
     "operator": "Ville de Nantes",
     "operator:type": "government",
     "operator:wikidata": "Q12191",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/parc-du-grand-blottereau/",
     "wikidata": "Q3364347",
     "wikipedia": "fr:Parc du Grand-Blottereau"
   }
@@ -342,6 +343,7 @@
     "leisure": "park",
     "name": "Parc de Procé",
     "opening_hours": "08:30-20:00; Oct 23-Nov 17,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/parc-de-proce/",
     "wikidata": "Q3364152",
     "wikipedia": "fr:Parc de Procé"
   }
@@ -4598,7 +4600,7 @@
     "opening_hours": "Mar-Oct 08:30-21:30; Oct-Mar 08:30-17:30",
     "panoramax:streetsign": "511c88de-e5f0-4bbf-9047-e7431e677b2f",
     "source:name:br": "proper translation",
-    "website": "https://jardins.nantes.fr/",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/jardin-des-plantes/",
     "wikidata": "Q3162566",
     "wikipedia": "fr:Jardin des plantes de Nantes"
   }
@@ -14007,6 +14009,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square de l'ancienne école des Beaux-Arts",
+    "name:br": "Skwar skol gozh an Arzoù Kaer",
     "opening_hours": "Jun 21-Oct 31 08:00-19:30"
   }
 },
@@ -14996,6 +14999,47 @@
   "tags": {
     "leisure": "park",
     "name": "square des petits clous"
+  }
+},
+{
+  "type": "way",
+  "id": 1410365144,
+  "nodes": [
+    12959475736,
+    12959475745,
+    12959475746,
+    12959475747,
+    12959475748,
+    12959475737,
+    298230013,
+    2026283573,
+    2026283561,
+    12959475743,
+    2026283560,
+    12959475744,
+    12959475736
+  ],
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1410365145,
+  "nodes": [
+    12959475742,
+    12959475749,
+    12959475750,
+    12959475751,
+    2026283574,
+    298230013,
+    2026283573,
+    2026283561,
+    12959475752,
+    12959475742
+  ],
+  "tags": {
+    "leisure": "park"
   }
 },
 {
@@ -66637,6 +66681,12 @@
 },
 {
   "type": "node",
+  "id": 298230013,
+  "lat": 47.2418601,
+  "lon": -1.5711989
+},
+{
+  "type": "node",
   "id": 573358397,
   "lat": 47.2446581,
   "lon": -1.5719722
@@ -66748,6 +66798,30 @@
   "id": 1460406124,
   "lat": 47.2459553,
   "lon": -1.5714754
+},
+{
+  "type": "node",
+  "id": 2026283560,
+  "lat": 47.2418056,
+  "lon": -1.5717978
+},
+{
+  "type": "node",
+  "id": 2026283561,
+  "lat": 47.2418514,
+  "lon": -1.5714883
+},
+{
+  "type": "node",
+  "id": 2026283573,
+  "lat": 47.2418661,
+  "lon": -1.5713416
+},
+{
+  "type": "node",
+  "id": 2026283574,
+  "lat": 47.2419418,
+  "lon": -1.5711895
 },
 {
   "type": "node",
@@ -66904,6 +66978,84 @@
   "id": 12105229416,
   "lat": 47.2438062,
   "lon": -1.5706627
+},
+{
+  "type": "node",
+  "id": 12959475736,
+  "lat": 47.2417552,
+  "lon": -1.5720019
+},
+{
+  "type": "node",
+  "id": 12959475737,
+  "lat": 47.2418139,
+  "lon": -1.5711953
+},
+{
+  "type": "node",
+  "id": 12959475742,
+  "lat": 47.2419610,
+  "lon": -1.5717117
+},
+{
+  "type": "node",
+  "id": 12959475743,
+  "lat": 47.2418369,
+  "lon": -1.5715863
+},
+{
+  "type": "node",
+  "id": 12959475744,
+  "lat": 47.2417700,
+  "lon": -1.5719421
+},
+{
+  "type": "node",
+  "id": 12959475745,
+  "lat": 47.2416804,
+  "lon": -1.5719406
+},
+{
+  "type": "node",
+  "id": 12959475746,
+  "lat": 47.2417284,
+  "lon": -1.5717817
+},
+{
+  "type": "node",
+  "id": 12959475747,
+  "lat": 47.2417500,
+  "lon": -1.5716192
+},
+{
+  "type": "node",
+  "id": 12959475748,
+  "lat": 47.2417955,
+  "lon": -1.5713484
+},
+{
+  "type": "node",
+  "id": 12959475749,
+  "lat": 47.2419794,
+  "lon": -1.5715068
+},
+{
+  "type": "node",
+  "id": 12959475750,
+  "lat": 47.2419754,
+  "lon": -1.5712536
+},
+{
+  "type": "node",
+  "id": 12959475751,
+  "lat": 47.2419714,
+  "lon": -1.5711877
+},
+{
+  "type": "node",
+  "id": 12959475752,
+  "lat": 47.2419093,
+  "lon": -1.5716063
 },
 {
   "type": "node",

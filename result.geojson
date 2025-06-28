@@ -4666,6 +4666,7 @@
     "operator": "Ville de Nantes",
     "operator:type": "government",
     "operator:wikidata": "Q12191",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/parc-du-grand-blottereau/",
     "wikidata": "Q3364347",
     "wikipedia": "fr:Parc du Grand-Blottereau",
     "id": "way/27532467"
@@ -5339,6 +5340,7 @@
     "leisure": "park",
     "name": "Parc de Procé",
     "opening_hours": "08:30-20:00; Oct 23-Nov 17,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/parc-de-proce/",
     "wikidata": "Q3364152",
     "wikipedia": "fr:Parc de Procé",
     "id": "way/27872767"
@@ -19528,7 +19530,7 @@
     "opening_hours": "Mar-Oct 08:30-21:30; Oct-Mar 08:30-17:30",
     "panoramax:streetsign": "511c88de-e5f0-4bbf-9047-e7431e677b2f",
     "source:name:br": "proper translation",
-    "website": "https://jardins.nantes.fr/",
+    "website": "https://nature.metropole.nantes.fr/parcs-jardins/jardin-des-plantes/",
     "wikidata": "Q3162566",
     "wikipedia": "fr:Jardin des plantes de Nantes",
     "id": "way/142340626"
@@ -50582,6 +50584,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square de l'ancienne école des Beaux-Arts",
+    "name:br": "Skwar skol gozh an Arzoù Kaer",
     "opening_hours": "Jun 21-Oct 31 08:00-19:30",
     "id": "way/1312231279"
   },
@@ -53977,6 +53980,128 @@
         [
           -1.6732962,
           47.2022698
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1410365144",
+  "properties": {
+    "leisure": "park",
+    "id": "way/1410365144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5720019,
+          47.2417552
+        ],
+        [
+          -1.5719406,
+          47.2416804
+        ],
+        [
+          -1.5717817,
+          47.2417284
+        ],
+        [
+          -1.5716192,
+          47.24175
+        ],
+        [
+          -1.5713484,
+          47.2417955
+        ],
+        [
+          -1.5711953,
+          47.2418139
+        ],
+        [
+          -1.5711989,
+          47.2418601
+        ],
+        [
+          -1.5713416,
+          47.2418661
+        ],
+        [
+          -1.5714883,
+          47.2418514
+        ],
+        [
+          -1.5715863,
+          47.2418369
+        ],
+        [
+          -1.5717978,
+          47.2418056
+        ],
+        [
+          -1.5719421,
+          47.24177
+        ],
+        [
+          -1.5720019,
+          47.2417552
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1410365145",
+  "properties": {
+    "leisure": "park",
+    "id": "way/1410365145"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5717117,
+          47.241961
+        ],
+        [
+          -1.5716063,
+          47.2419093
+        ],
+        [
+          -1.5714883,
+          47.2418514
+        ],
+        [
+          -1.5713416,
+          47.2418661
+        ],
+        [
+          -1.5711989,
+          47.2418601
+        ],
+        [
+          -1.5711895,
+          47.2419418
+        ],
+        [
+          -1.5711877,
+          47.2419714
+        ],
+        [
+          -1.5712536,
+          47.2419754
+        ],
+        [
+          -1.5715068,
+          47.2419794
+        ],
+        [
+          -1.5717117,
+          47.241961
         ]
       ]
     ]
