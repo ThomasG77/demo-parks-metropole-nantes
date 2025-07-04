@@ -43051,6 +43051,7 @@
   "properties": {
     "leisure": "park",
     "name": "Le Jardin des Hespérides",
+    "name:br": "Liorzh an Hesperidezed",
     "id": "way/720592529"
   },
   "geometry": {
