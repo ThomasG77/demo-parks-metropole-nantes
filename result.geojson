@@ -20218,12 +20218,14 @@
   "type": "Feature",
   "id": "way/142974671",
   "properties": {
+    "access": "yes",
     "leisure": "park",
     "name": "Square Docteur Louis Bureau",
     "name:br": "Skwar an Doktor Louis Bureau",
     "name:etymology:wikidata": "Q3261377",
     "name:wikidata": "Q3261377",
     "name:wikipedia": "fr:Louis Bureau",
+    "opening_hours": "Jan-Mar: Mo-Su 08:30-16:30; Mar-Oct: Mo-Su 08:30-22:00; Oct-Dec: Mo-Su 08:30-16:30",
     "source:name:br": "proper translation",
     "id": "way/142974671"
   },

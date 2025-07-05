@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-04T18:55:15Z",
-    "timestamp_areas_base": "2025-06-25T21:32:45Z",
+    "timestamp_osm_base": "2025-07-05T18:53:15Z",
+    "timestamp_areas_base": "2025-07-05T14:46:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4751,12 +4751,14 @@
     1564389638
   ],
   "tags": {
+    "access": "yes",
     "leisure": "park",
     "name": "Square Docteur Louis Bureau",
     "name:br": "Skwar an Doktor Louis Bureau",
     "name:etymology:wikidata": "Q3261377",
     "name:wikidata": "Q3261377",
     "name:wikipedia": "fr:Louis Bureau",
+    "opening_hours": "Jan-Mar: Mo-Su 08:30-16:30; Mar-Oct: Mo-Su 08:30-22:00; Oct-Dec: Mo-Su 08:30-16:30",
     "source:name:br": "proper translation"
   }
 },
