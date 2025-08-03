@@ -23602,6 +23602,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin Confluent",
+    "name:br": "Liorzh Kember",
     "id": "way/155868494"
   },
   "geometry": {
@@ -42388,6 +42389,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc des Perrières",
+    "name:br": "Park ar Mengleuzioù",
     "id": "way/694954916"
   },
   "geometry": {
