@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-11T18:58:30Z",
-    "timestamp_areas_base": "2025-08-11T13:53:48Z",
+    "timestamp_osm_base": "2025-08-12T18:55:00Z",
+    "timestamp_areas_base": "2025-08-12T12:55:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13726,7 +13726,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Jardin nord"
+    "name": "Jardin nord",
+    "name:br": "Liorzh Norzh"
   }
 },
 {
@@ -15093,6 +15094,27 @@
   ],
   "tags": {
     "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1421622900,
+  "nodes": [
+    2647510126,
+    13064248406,
+    13064248417,
+    13064248407,
+    13064248408,
+    13064248409,
+    2647510126
+  ],
+  "tags": {
+    "barrier": "fence",
+    "leisure": "park",
+    "name": "Parc municipal de Basse Indre",
+    "opening_hours": "24/7",
+    "operator": "Mairie",
+    "operator:type": "public"
   }
 },
 {
@@ -21380,6 +21402,12 @@
 },
 {
   "type": "node",
+  "id": 2647510126,
+  "lat": 47.1972857,
+  "lon": -1.6722328
+},
+{
+  "type": "node",
   "id": 12864502424,
   "lat": 47.2022698,
   "lon": -1.6732962
@@ -21419,6 +21447,36 @@
   "id": 12864502432,
   "lat": 47.2022895,
   "lon": -1.6728315
+},
+{
+  "type": "node",
+  "id": 13064248406,
+  "lat": 47.1971824,
+  "lon": -1.6723448
+},
+{
+  "type": "node",
+  "id": 13064248407,
+  "lat": 47.1972652,
+  "lon": -1.6727044
+},
+{
+  "type": "node",
+  "id": 13064248408,
+  "lat": 47.1975932,
+  "lon": -1.6723624
+},
+{
+  "type": "node",
+  "id": 13064248409,
+  "lat": 47.1974582,
+  "lon": -1.6720616
+},
+{
+  "type": "node",
+  "id": 13064248417,
+  "lat": 47.1972161,
+  "lon": -1.6725267
 },
 {
   "type": "node",

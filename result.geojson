@@ -49677,6 +49677,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin nord",
+    "name:br": "Liorzh Norzh",
     "id": "way/1289672452"
   },
   "geometry": {
@@ -54278,6 +54279,54 @@
         [
           -1.485853,
           47.2747899
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1421622900",
+  "properties": {
+    "barrier": "fence",
+    "leisure": "park",
+    "name": "Parc municipal de Basse Indre",
+    "opening_hours": "24/7",
+    "operator": "Mairie",
+    "operator:type": "public",
+    "id": "way/1421622900"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6722328,
+          47.1972857
+        ],
+        [
+          -1.6720616,
+          47.1974582
+        ],
+        [
+          -1.6723624,
+          47.1975932
+        ],
+        [
+          -1.6727044,
+          47.1972652
+        ],
+        [
+          -1.6725267,
+          47.1972161
+        ],
+        [
+          -1.6723448,
+          47.1971824
+        ],
+        [
+          -1.6722328,
+          47.1972857
         ]
       ]
     ]
