@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-21T18:54:16Z",
-    "timestamp_areas_base": "2025-08-21T14:02:48Z",
+    "timestamp_osm_base": "2025-08-22T18:54:48Z",
+    "timestamp_areas_base": "2025-08-22T12:40:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8389,6 +8389,7 @@
   ],
   "tags": {
     "barrier": "wall",
+    "dog": "leashed",
     "leisure": "park",
     "name": "Parc des Oblates",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",

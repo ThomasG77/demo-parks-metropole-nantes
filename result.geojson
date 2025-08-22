@@ -32217,6 +32217,7 @@
   "id": "way/360115625",
   "properties": {
     "barrier": "wall",
+    "dog": "leashed",
     "leisure": "park",
     "name": "Parc des Oblates",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
