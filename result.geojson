@@ -32709,8 +32709,13 @@
   "type": "Feature",
   "id": "way/360381144",
   "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Boulevard Guichet Sérex",
+    "alt_name": "Parc du Loiry",
     "leisure": "park",
     "name": "Base de loisir du Loiry",
+    "operator:wikidata": "Q115918479",
+    "wikidata": "Q120216336",
     "id": "way/360381144"
   },
   "geometry": {

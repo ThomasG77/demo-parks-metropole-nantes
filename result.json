@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-27T18:51:55Z",
-    "timestamp_areas_base": "2025-08-27T15:41:30Z",
+    "timestamp_osm_base": "2025-08-28T18:53:41Z",
+    "timestamp_areas_base": "2025-08-28T14:12:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8532,8 +8532,13 @@
     534805866
   ],
   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Boulevard Guichet Sérex",
+    "alt_name": "Parc du Loiry",
     "leisure": "park",
-    "name": "Base de loisir du Loiry"
+    "name": "Base de loisir du Loiry",
+    "operator:wikidata": "Q115918479",
+    "wikidata": "Q120216336"
   }
 },
 {
