@@ -55027,27 +55027,6 @@
       ]
     ]
   }
-},
-{
-  "type": "Feature",
-  "id": "way/1426463198",
-  "properties": {
-    "leisure": "park",
-    "id": "way/1426463198"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -1.6761365,
-        47.1839726
-      ],
-      [
-        -1.6752732,
-        47.1836642
-      ]
-    ]
-  }
 }
 ]
 }
