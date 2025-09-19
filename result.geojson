@@ -35868,6 +35868,7 @@
     "landuse": "grass",
     "leisure": "park",
     "name": "Parc du Pré Poulain",
+    "name:br": "Park ar Park an Ebeul",
     "id": "way/484764637"
   },
   "geometry": {
@@ -36269,6 +36270,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la salle Homberg",
+    "name:br": "Park Sal Homberg",
     "id": "way/484774092"
   },
   "geometry": {
@@ -39439,6 +39441,7 @@
   "properties": {
     "leisure": "park",
     "name": "Les Jardins de Marianne",
+    "name:br": "Liorzhoù Marianne",
     "surface": "grass",
     "id": "way/557086447"
   },
@@ -42025,6 +42028,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc des Maraîchers",
+    "name:br": "Park al Legumajerien",
     "surface": "ground",
     "id": "way/677884278"
   },
@@ -51584,6 +51588,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc des Sports",
+    "name:br": "Park ar Sportoù",
     "surface": "grass",
     "id": "way/1316483130"
   },

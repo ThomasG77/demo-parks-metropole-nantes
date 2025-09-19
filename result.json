@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-18T18:53:41Z",
-    "timestamp_areas_base": "2025-09-18T16:42:43Z",
+    "timestamp_osm_base": "2025-09-19T18:51:56Z",
+    "timestamp_areas_base": "2025-09-19T14:42:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -9508,7 +9508,8 @@
   "tags": {
     "landuse": "grass",
     "leisure": "park",
-    "name": "Parc du Pré Poulain"
+    "name": "Parc du Pré Poulain",
+    "name:br": "Park ar Park an Ebeul"
   }
 },
 {
@@ -9588,7 +9589,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc de la salle Homberg"
+    "name": "Parc de la salle Homberg",
+    "name:br": "Park Sal Homberg"
   }
 },
 {
@@ -10576,6 +10578,7 @@
   "tags": {
     "leisure": "park",
     "name": "Les Jardins de Marianne",
+    "name:br": "Liorzhoù Marianne",
     "surface": "grass"
   }
 },
@@ -11361,6 +11364,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc des Maraîchers",
+    "name:br": "Park al Legumajerien",
     "surface": "ground"
   }
 },
@@ -14355,6 +14359,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc des Sports",
+    "name:br": "Park ar Sportoù",
     "surface": "grass"
   }
 },
