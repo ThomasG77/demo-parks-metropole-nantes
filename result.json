@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-19T18:51:56Z",
-    "timestamp_areas_base": "2025-09-19T14:42:00Z",
+    "timestamp_osm_base": "2025-09-20T18:51:11Z",
+    "timestamp_areas_base": "2025-09-20T12:18:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5533,7 +5533,8 @@
     "leisure": "park",
     "name": "Le Jardin extraordinaire",
     "name:br": "Ar Liorzh dreistordinal",
-    "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 09:00-18:15; Mar 20-Oct 22 09:00-19:30; Oct 18-Jan 14 09:00-17:15",
+    "opening_hours": "Jan 1-Mar 30,Oct 27-Dec 31 08:30-17:15; Mar 31-Oct 26 08:30-22:00",
+    "opening_hours:source": "https://www.levoyageanantes.fr/lieux/le-jardin-extraordinaire-et-la-promenade-des-7-belvederes/",
     "operator": "Ville de Nantes",
     "operator:type": "government",
     "operator:wikidata": "Q12191",
