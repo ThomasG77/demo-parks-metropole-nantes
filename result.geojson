@@ -55085,6 +55085,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/1431656844",
+  "properties": {
+    "addr:city": "Saint-Aignan-Grandlieu",
+    "addr:housenumber": "2",
+    "addr:postcode": "44860",
+    "addr:street": "Rue des Frères Rousseau",
+    "leisure": "park",
+    "name": "Jardin public du Grand Lieu du Conte",
+    "opening_hours": "Su-Th 08:30-20:00, Fr-Sa 08:30-22:30",
+    "website": "https://www.saint-aignan-grandlieu.fr/se-promener/jardins-publics/le-jardin-public-du-grand-lieu-du-conte-1054.html",
+    "id": "way/1431656844"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6331365,
+          47.123805
+        ],
+        [
+          -1.6335137,
+          47.123383
+        ],
+        [
+          -1.6334821,
+          47.1232304
+        ],
+        [
+          -1.6333669,
+          47.1230773
+        ],
+        [
+          -1.6333221,
+          47.1230848
+        ],
+        [
+          -1.6333113,
+          47.1230476
+        ],
+        [
+          -1.6326652,
+          47.1231074
+        ],
+        [
+          -1.6323553,
+          47.1235794
+        ],
+        [
+          -1.6331365,
+          47.123805
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/154693619",
   "properties": {
     "leisure": "park",

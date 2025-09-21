@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-20T18:51:11Z",
-    "timestamp_areas_base": "2025-09-20T12:18:36Z",
+    "timestamp_osm_base": "2025-09-21T18:51:45Z",
+    "timestamp_areas_base": "2025-09-21T14:52:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -15384,6 +15384,31 @@
   }
 },
 {
+  "type": "way",
+  "id": 1431656844,
+  "nodes": [
+    9565730531,
+    1146539035,
+    13159436062,
+    1146532551,
+    1146555639,
+    1146533570,
+    1146533611,
+    13159436063,
+    9565730531
+  ],
+  "tags": {
+    "addr:city": "Saint-Aignan-Grandlieu",
+    "addr:housenumber": "2",
+    "addr:postcode": "44860",
+    "addr:street": "Rue des Frères Rousseau",
+    "leisure": "park",
+    "name": "Jardin public du Grand Lieu du Conte",
+    "opening_hours": "Su-Th 08:30-20:00, Fr-Sa 08:30-22:30",
+    "website": "https://www.saint-aignan-grandlieu.fr/se-promener/jardins-publics/le-jardin-public-du-grand-lieu-du-conte-1054.html"
+  }
+},
+{
   "type": "relation",
   "id": 341506,
   "members": [
@@ -21267,6 +21292,36 @@
 },
 {
   "type": "node",
+  "id": 1146532551,
+  "lat": 47.1230476,
+  "lon": -1.6333113
+},
+{
+  "type": "node",
+  "id": 1146533570,
+  "lat": 47.1230773,
+  "lon": -1.6333669
+},
+{
+  "type": "node",
+  "id": 1146533611,
+  "lat": 47.1232304,
+  "lon": -1.6334821
+},
+{
+  "type": "node",
+  "id": 1146539035,
+  "lat": 47.1235794,
+  "lon": -1.6323553
+},
+{
+  "type": "node",
+  "id": 1146555639,
+  "lat": 47.1230848,
+  "lon": -1.6333221
+},
+{
+  "type": "node",
   "id": 2207931955,
   "lat": 47.1216183,
   "lon": -1.6322802
@@ -21315,6 +21370,18 @@
 },
 {
   "type": "node",
+  "id": 13159436062,
+  "lat": 47.1231074,
+  "lon": -1.6326652
+},
+{
+  "type": "node",
+  "id": 13159436063,
+  "lat": 47.1233830,
+  "lon": -1.6335137
+},
+{
+  "type": "node",
   "id": 522755404,
   "lat": 47.1496583,
   "lon": -1.6776880
@@ -21348,6 +21415,12 @@
   "id": 8862853935,
   "lat": 47.1473810,
   "lon": -1.6708943
+},
+{
+  "type": "node",
+  "id": 9565730531,
+  "lat": 47.1238050,
+  "lon": -1.6331365
 },
 {
   "type": "node",
