@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-29T18:52:41Z",
-    "timestamp_areas_base": "2025-09-29T16:46:45Z",
+    "timestamp_osm_base": "2025-09-30T18:52:16Z",
+    "timestamp_areas_base": "2025-09-30T15:15:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -15408,6 +15408,23 @@
   }
 },
 {
+  "type": "way",
+  "id": 1434323967,
+  "nodes": [
+    13183613923,
+    13183613924,
+    13183613925,
+    13183613926,
+    13183613927,
+    13183613928,
+    13183613923
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "En chantier"
+  }
+},
+{
   "type": "relation",
   "id": 341506,
   "members": [
@@ -19470,6 +19487,42 @@
   "id": 13110674320,
   "lat": 47.1873603,
   "lon": -1.6789139
+},
+{
+  "type": "node",
+  "id": 13183613923,
+  "lat": 47.1884756,
+  "lon": -1.6836798
+},
+{
+  "type": "node",
+  "id": 13183613924,
+  "lat": 47.1882668,
+  "lon": -1.6838700
+},
+{
+  "type": "node",
+  "id": 13183613925,
+  "lat": 47.1881511,
+  "lon": -1.6839304
+},
+{
+  "type": "node",
+  "id": 13183613926,
+  "lat": 47.1878863,
+  "lon": -1.6839524
+},
+{
+  "type": "node",
+  "id": 13183613927,
+  "lat": 47.1878490,
+  "lon": -1.6837072
+},
+{
+  "type": "node",
+  "id": 13183613928,
+  "lat": 47.1884234,
+  "lon": -1.6834401
 },
 {
   "type": "node",
@@ -80692,8 +80745,8 @@
 {
   "type": "node",
   "id": 5333547613,
-  "lat": 47.2992996,
-  "lon": -1.5144924
+  "lat": 47.2992969,
+  "lon": -1.5144240
 },
 {
   "type": "node",
