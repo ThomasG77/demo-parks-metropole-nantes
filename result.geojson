@@ -5652,6 +5652,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de La Bourgonnière",
+    "name:br": "Park La Bourgonnière",
     "id": "way/28006674"
   },
   "geometry": {
@@ -6976,6 +6977,7 @@
   "properties": {
     "leisure": "park",
     "name": "Prairie Humide des Rives de Sèvre",
+    "name:br": "Pradenn C'hleb Ribloù ar Sevr",
     "id": "way/30688018"
   },
   "geometry": {
@@ -13608,6 +13610,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Clos Fleuri",
+    "name:br": "Park ar C'hloz Fleuriet",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "id": "way/51863315"
   },
@@ -31247,6 +31250,7 @@
   "properties": {
     "leisure": "park",
     "name": "La Carrière",
+    "name:br": "Ar Vengleuz",
     "operator": "Mairie de Saint-Herblain",
     "id": "way/307005974"
   },
