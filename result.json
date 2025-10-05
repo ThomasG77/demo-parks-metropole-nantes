@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-04T18:51:22Z",
-    "timestamp_areas_base": "2025-10-04T16:05:26Z",
+    "timestamp_osm_base": "2025-10-05T18:51:16Z",
+    "timestamp_areas_base": "2025-10-05T15:17:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5163,7 +5163,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Plessis Tison",
-    "opening_hours": "Oct 23-Nov 17 09:00-18:15; Nov 18-Jan 14 09:00-17:15; Jan 15-Mar 19 09:00-18:00; Mar 20-Oct 22 09:00-19:45",
+    "opening_hours": "Nov 1-Mar 14 08:30-18:00; Mar 15-Oct 31 08:30-22:00",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "wikidata": "Q16509994"
   }
