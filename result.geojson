@@ -50812,6 +50812,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Germaine Tillion",
+    "name:br": "Skwar Germaine Tillion",
     "wikidata": "Q127300169",
     "id": "way/1300428877"
   },
