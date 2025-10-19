@@ -20746,10 +20746,11 @@
   "type": "Feature",
   "id": "way/142340626",
   "properties": {
+    "check_date:opening_hours": "2025-10-18",
     "leisure": "park",
     "name": "Jardin des Plantes",
     "name:br": "Liorzh ar Plant",
-    "opening_hours": "Mar-Oct 08:30-21:30; Oct-Mar 08:30-17:30",
+    "opening_hours": "15 Mar-31 Oct 08:30-21:30; 1 Nov-14 Mar 08:30-18:00",
     "panoramax:streetsign": "511c88de-e5f0-4bbf-9047-e7431e677b2f",
     "source:name:br": "proper translation",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/jardin-des-plantes/",
