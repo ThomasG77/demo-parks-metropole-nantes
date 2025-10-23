@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-22T18:55:46Z",
-    "timestamp_areas_base": "2025-10-22T15:50:54Z",
+    "timestamp_osm_base": "2025-10-23T18:54:11Z",
+    "timestamp_areas_base": "2025-10-23T12:46:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6341,7 +6341,7 @@
   "tags": {
     "alt_name": "CRAPA",
     "leisure": "park",
-    "name": "Parc de Beaulieu",
+    "name": "Parc naturel de Beaulieu",
     "name:br": "Park Beaulieu",
     "name:etymology:wikidata": "Q3593010",
     "opening_hours": "24/7",
