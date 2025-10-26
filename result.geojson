@@ -46995,6 +46995,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Vieux Parc de Sèvre",
+    "name:br": "Skwar Park Kozh ar Sevr",
     "wikidata": "Q127258846",
     "id": "way/797142797"
   },
