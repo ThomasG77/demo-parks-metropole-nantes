@@ -51020,6 +51020,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Clos Toreau",
+    "name:br": "Skwar Kloz Toreau",
     "wikidata": "Q127260196",
     "id": "way/1300451675"
   },
