@@ -23861,7 +23861,11 @@
   "type": "Feature",
   "id": "way/154698492",
   "properties": {
+    "alt_name": "Parc de l’Hôtel de Ville",
     "leisure": "park",
+    "name": "Parc de la Gilière",
+    "opening_hours": "24/7",
+    "operator": "Ville de La Chapelle sur Erdre",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "id": "way/154698492"
   },
