@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-30T18:55:00Z",
-    "timestamp_areas_base": "2025-10-30T12:08:45Z",
+    "timestamp_osm_base": "2025-10-31T18:55:00Z",
+    "timestamp_areas_base": "2025-10-31T13:27:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -15678,6 +15678,7 @@
     "old_name": "Cours de la République",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17:00,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
+    "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
     "type": "multipolygon",
     "wikidata": "Q3001330",

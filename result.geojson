@@ -3343,6 +3343,7 @@
     "old_name": "Cours de la République",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17:00,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
+    "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
     "type": "multipolygon",
     "wikidata": "Q3001330",
