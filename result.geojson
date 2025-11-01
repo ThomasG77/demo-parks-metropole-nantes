@@ -11100,6 +11100,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la Roche",
+    "name:br": "Park ar Roc'h",
     "wikidata": "Q16668910",
     "id": "way/44459730"
   },
