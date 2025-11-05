@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-04T18:54:02Z",
-    "timestamp_areas_base": "2025-11-04T12:05:30Z",
+    "timestamp_osm_base": "2025-11-05T18:55:33Z",
+    "timestamp_areas_base": "2025-11-05T12:12:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7364,6 +7364,7 @@
     525215999,
     525216002,
     5177879172,
+    13281523253,
     5177879171,
     5177879170,
     5177879169,
@@ -15044,6 +15045,25 @@
     "website": "https://www.bouguenais.fr/fr/roche-ballue",
     "wikidata": "Q110068205",
     "wikipedia": "fr:La Roche Ballue"
+  }
+},
+{
+  "type": "way",
+  "id": 1379333800,
+  "nodes": [
+    12772318448,
+    13281915796,
+    2315745048,
+    2315745045,
+    12772318447,
+    12772318448
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Square Arnaud Beltrame",
+    "operator": "Nantes Métropole",
+    "operator:type": "public",
+    "was:amenity": "parking"
   }
 },
 {
@@ -46477,6 +46497,12 @@
 },
 {
   "type": "node",
+  "id": 13281523253,
+  "lat": 47.2441133,
+  "lon": -1.6373642
+},
+{
+  "type": "node",
   "id": 525215995,
   "lat": 47.2492242,
   "lon": -1.6342065
@@ -65485,6 +65511,12 @@
 },
 {
   "type": "node",
+  "id": 12772318448,
+  "lat": 47.2043968,
+  "lon": -1.5401200
+},
+{
+  "type": "node",
   "id": 366277888,
   "lat": 47.2034082,
   "lon": -1.5364482
@@ -65506,6 +65538,18 @@
   "id": 366277899,
   "lat": 47.2039008,
   "lon": -1.5367513
+},
+{
+  "type": "node",
+  "id": 2315745045,
+  "lat": 47.2048776,
+  "lon": -1.5388411
+},
+{
+  "type": "node",
+  "id": 2315745048,
+  "lat": 47.2050853,
+  "lon": -1.5389849
 },
 {
   "type": "node",
@@ -65650,6 +65694,18 @@
   "id": 12065405761,
   "lat": 47.2039315,
   "lon": -1.5367565
+},
+{
+  "type": "node",
+  "id": 12772318447,
+  "lat": 47.2042280,
+  "lon": -1.5399513
+},
+{
+  "type": "node",
+  "id": 13281915796,
+  "lat": 47.2047359,
+  "lon": -1.5395391
 },
 {
   "type": "node",
