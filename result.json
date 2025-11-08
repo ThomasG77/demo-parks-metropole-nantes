@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-07T18:51:16Z",
-    "timestamp_areas_base": "2025-11-07T14:13:13Z",
+    "timestamp_osm_base": "2025-11-08T18:51:14Z",
+    "timestamp_areas_base": "2025-11-08T12:39:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4117,13 +4117,9 @@
     1460349823,
     13128330895,
     573361098,
-    2133770994,
-    1037123665,
     2133770997,
     573361116,
     1460368472,
-    1460368496,
-    2133771013,
     2133771015,
     2133771016,
     2133771017,
@@ -12692,7 +12688,9 @@
     529667883
   ],
   "tags": {
-    "leisure": "park"
+    "leisure": "park",
+    "name": "Parc de la Sèvre",
+    "name:br": "Park ar Sevr"
   }
 },
 {
@@ -54598,12 +54596,6 @@
 },
 {
   "type": "node",
-  "id": 1037123665,
-  "lat": 47.2468303,
-  "lon": -1.5803504
-},
-{
-  "type": "node",
   "id": 1460368472,
   "lat": 47.2475594,
   "lon": -1.5810629
@@ -54625,12 +54617,6 @@
   "id": 1460368494,
   "lat": 47.2481816,
   "lon": -1.5798919
-},
-{
-  "type": "node",
-  "id": 1460368496,
-  "lat": 47.2478471,
-  "lon": -1.5810604
 },
 {
   "type": "node",
@@ -54694,12 +54680,6 @@
 },
 {
   "type": "node",
-  "id": 2133770994,
-  "lat": 47.2467293,
-  "lon": -1.5797966
-},
-{
-  "type": "node",
   "id": 2133770997,
   "lat": 47.2468944,
   "lon": -1.5807923
@@ -54715,12 +54695,6 @@
   "id": 2133771012,
   "lat": 47.2481173,
   "lon": -1.5796230
-},
-{
-  "type": "node",
-  "id": 2133771013,
-  "lat": 47.2480919,
-  "lon": -1.5810786
 },
 {
   "type": "node",
