@@ -39037,6 +39037,9 @@
   "id": "way/547402759",
   "properties": {
     "leisure": "park",
+    "name": "Parc de la Grillonnais",
+    "operator": "Mairie de Basse-Goulaine",
+    "operator:type": "public",
     "id": "way/547402759"
   },
   "geometry": {
@@ -39165,6 +39168,10 @@
         [
           -1.4633596,
           47.2112257
+        ],
+        [
+          -1.463744,
+          47.2113502
         ],
         [
           -1.4642769,
