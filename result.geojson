@@ -3341,7 +3341,7 @@
     "name:wikidata": "Q472540",
     "name:wikipedia": "fr:Pierre Cambronne",
     "old_name": "Cours de la République",
-    "opening_hours": "08:45-19:30; Oct 23-Nov 17:00,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
+    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:00",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
     "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
@@ -39860,6 +39860,10 @@
         [
           -1.4654732,
           47.2549507
+        ],
+        [
+          -1.4652364,
+          47.2549834
         ],
         [
           -1.465152,

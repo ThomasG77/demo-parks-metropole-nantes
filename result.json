@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-19T18:53:15Z",
-    "timestamp_areas_base": "2025-11-19T10:40:14Z",
+    "timestamp_osm_base": "2025-11-20T18:56:05Z",
+    "timestamp_areas_base": "2025-11-20T10:36:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10392,6 +10392,7 @@
     1909952050,
     1909952059,
     1909952052,
+    13317624918,
     1909952036,
     1909952034,
     12184657534,
@@ -15737,7 +15738,7 @@
     "name:wikidata": "Q472540",
     "name:wikipedia": "fr:Pierre Cambronne",
     "old_name": "Cours de la République",
-    "opening_hours": "08:45-19:30; Oct 23-Nov 17:00,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
+    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:00",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
     "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
@@ -84316,6 +84317,12 @@
   "id": 12184657534,
   "lat": 47.2549307,
   "lon": -1.4658393
+},
+{
+  "type": "node",
+  "id": 13317624918,
+  "lat": 47.2549834,
+  "lon": -1.4652364
 },
 {
   "type": "node",
