@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-22T18:52:30Z",
-    "timestamp_areas_base": "2025-11-22T15:32:33Z",
+    "timestamp_osm_base": "2025-11-23T18:53:02Z",
+    "timestamp_areas_base": "2025-11-23T14:20:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4040,6 +4040,7 @@
   "tags": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:br": "Traoñienn ar C'hent",
     "name:etymology:wikidata": "Q3554067"
   }
 },
@@ -10612,7 +10613,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc du petit Port"
+    "name": "Parc du petit Port",
+    "name:br": "Park ar Porzh Bihan"
   }
 },
 {

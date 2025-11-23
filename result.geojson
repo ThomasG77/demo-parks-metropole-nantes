@@ -18204,6 +18204,7 @@
   "properties": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:br": "Traoñienn ar C'hent",
     "name:etymology:wikidata": "Q3554067",
     "id": "way/132747191"
   },
@@ -40307,6 +40308,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du petit Port",
+    "name:br": "Park ar Porzh Bihan",
     "id": "way/562022651"
   },
   "geometry": {
