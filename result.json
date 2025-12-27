@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-26T18:56:27Z",
-    "timestamp_areas_base": "2025-12-26T14:47:07Z",
+    "timestamp_osm_base": "2025-12-27T18:55:45Z",
+    "timestamp_areas_base": "2025-12-27T10:37:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -22,7 +22,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square de la Délivrance"
+    "name": "Square de la Délivrance",
+    "name:br": "Skwar an Dilivrañs"
   }
 },
 {
@@ -2882,6 +2883,7 @@
     "barrier": "fence",
     "leisure": "park",
     "name": "Square des Combattants d'Afrique du Nord",
+    "name:br": "Skwar Stourmerien Norzh Afrika",
     "opening_hours": "sunrise-sunset",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-des-combattants-dafrique-du-nord/"
@@ -14846,6 +14848,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square Arnaud Beltrame",
+    "name:br": "Skwar Arnaud Beltrame",
     "operator": "Nantes Métropole",
     "operator:type": "public",
     "was:amenity": "parking"

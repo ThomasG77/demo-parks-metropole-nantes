@@ -5973,6 +5973,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square de la Délivrance",
+    "name:br": "Skwar an Dilivrañs",
     "id": "way/25025464"
   },
   "geometry": {
@@ -15251,6 +15252,7 @@
     "barrier": "fence",
     "leisure": "park",
     "name": "Square des Combattants d'Afrique du Nord",
+    "name:br": "Skwar Stourmerien Norzh Afrika",
     "opening_hours": "sunrise-sunset",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-des-combattants-dafrique-du-nord/",
@@ -54715,6 +54717,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Arnaud Beltrame",
+    "name:br": "Skwar Arnaud Beltrame",
     "operator": "Nantes Métropole",
     "operator:type": "public",
     "was:amenity": "parking",
