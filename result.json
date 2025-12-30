@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-29T18:56:15Z",
-    "timestamp_areas_base": "2025-12-29T16:11:05Z",
+    "timestamp_osm_base": "2025-12-30T18:57:57Z",
+    "timestamp_areas_base": "2025-12-30T11:16:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1157,7 +1157,8 @@
   "tags": {
     "leisure": "park",
     "name": "Square Commandant Lacroix",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+    "name:br": "Skwar Komandant Lacroix",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009"
   }
 },
 {
@@ -5551,7 +5552,7 @@
     302839693,
     302839691,
     302839690,
-    1619845816,
+    13416573749,
     1619845819,
     1619845823,
     1619845829,
@@ -6489,6 +6490,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc de Dundalk",
+    "name:br": "Park Dún Dealgan",
     "name:etymology:wikidata": "Q204956"
   }
 },
@@ -7273,7 +7275,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Terrain de la Grève"
+    "name": "Terrain de la Grève",
+    "name:br": "Tachenn ar C'hrav"
   }
 },
 {
@@ -9718,7 +9721,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc Hippolyte-Derouet"
+    "name": "Parc Hippolyte-Derouet",
+    "name:br": "Park Hippolyte-Derouet"
   }
 },
 {
@@ -13138,7 +13142,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Jardin de la cale Aubin"
+    "name": "Jardin de la cale Aubin",
+    "name:br": "Liorzh Kal Aubin"
   }
 },
 {
@@ -13679,6 +13684,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square Église de La Madeleine",
+    "name:br": "Skwar Iliz ar Vadalen",
     "wikidata": "Q127264525"
   }
 },
@@ -41557,8 +41563,8 @@
 {
   "type": "node",
   "id": 302839693,
-  "lat": 47.1957346,
-  "lon": -1.5447964
+  "lat": 47.1957255,
+  "lon": -1.5448129
 },
 {
   "type": "node",
@@ -41917,14 +41923,14 @@
 {
   "type": "node",
   "id": 302839690,
-  "lat": 47.1961522,
-  "lon": -1.5456090
+  "lat": 47.1961927,
+  "lon": -1.5456252
 },
 {
   "type": "node",
   "id": 302839691,
-  "lat": 47.1961464,
-  "lon": -1.5454716
+  "lat": 47.1961771,
+  "lon": -1.5455314
 },
 {
   "type": "node",
@@ -42060,27 +42066,21 @@
 },
 {
   "type": "node",
-  "id": 1619845816,
-  "lat": 47.1963370,
-  "lon": -1.5459509
-},
-{
-  "type": "node",
   "id": 1619845819,
-  "lat": 47.1963648,
-  "lon": -1.5459495
+  "lat": 47.1963662,
+  "lon": -1.5459158
 },
 {
   "type": "node",
   "id": 1619845823,
-  "lat": 47.1964300,
-  "lon": -1.5460659
+  "lat": 47.1964384,
+  "lon": -1.5460309
 },
 {
   "type": "node",
   "id": 1619845829,
-  "lat": 47.1964885,
-  "lon": -1.5460828
+  "lat": 47.1965165,
+  "lon": -1.5460622
 },
 {
   "type": "node",
@@ -42735,6 +42735,12 @@
   "id": 10867770060,
   "lat": 47.2009868,
   "lon": -1.5441275
+},
+{
+  "type": "node",
+  "id": 13416573749,
+  "lat": 47.1962564,
+  "lon": -1.5457267
 },
 {
   "type": "node",

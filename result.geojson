@@ -9646,7 +9646,8 @@
   "properties": {
     "leisure": "park",
     "name": "Square Commandant Lacroix",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009",
+    "name:br": "Skwar Komandant Lacroix",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "id": "way/32488529"
   },
   "geometry": {
@@ -24009,8 +24010,8 @@
     "coordinates": [
       [
         [
-          -1.5447964,
-          47.1957346
+          -1.5448129,
+          47.1957255
         ],
         [
           -1.5447128,
@@ -24085,32 +24086,32 @@
           47.1967671
         ],
         [
-          -1.5460828,
-          47.1964885
+          -1.5460622,
+          47.1965165
         ],
         [
-          -1.5460659,
-          47.19643
+          -1.5460309,
+          47.1964384
         ],
         [
-          -1.5459495,
-          47.1963648
+          -1.5459158,
+          47.1963662
         ],
         [
-          -1.5459509,
-          47.196337
+          -1.5457267,
+          47.1962564
         ],
         [
-          -1.545609,
-          47.1961522
+          -1.5456252,
+          47.1961927
         ],
         [
-          -1.5454716,
-          47.1961464
+          -1.5455314,
+          47.1961771
         ],
         [
-          -1.5447964,
-          47.1957346
+          -1.5448129,
+          47.1957255
         ]
       ]
     ]
@@ -26625,6 +26626,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de Dundalk",
+    "name:br": "Park Dún Dealgan",
     "name:etymology:wikidata": "Q204956",
     "id": "way/222047272"
   },
@@ -30084,6 +30086,7 @@
   "properties": {
     "leisure": "park",
     "name": "Terrain de la Grève",
+    "name:br": "Tachenn ar C'hrav",
     "id": "way/248904151"
   },
   "geometry": {
@@ -37958,6 +37961,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc Hippolyte-Derouet",
+    "name:br": "Park Hippolyte-Derouet",
     "id": "way/531745629"
   },
   "geometry": {
@@ -49199,6 +49203,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin de la cale Aubin",
+    "name:br": "Liorzh Kal Aubin",
     "id": "way/1077112774"
   },
   "geometry": {
@@ -50830,6 +50835,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Église de La Madeleine",
+    "name:br": "Skwar Iliz ar Vadalen",
     "wikidata": "Q127264525",
     "id": "way/1300458172"
   },
