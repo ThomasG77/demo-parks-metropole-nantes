@@ -2590,7 +2590,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Clos Saint-Julien",
-    "name:br": "Liorzh Kloz Sant-Juluan",
+    "name:br": "Park Kloz Sant-Juluan",
     "source:name:br": "proper translation",
     "type": "multipolygon",
     "id": "relation/2088222"
@@ -3658,6 +3658,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la Morinière",
+    "name:br": "Park La Morinière",
     "opening_hours": "09:00-18:00",
     "operator": "Ville de Rezé",
     "type": "multipolygon",
@@ -8247,6 +8248,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc Potager de la Crapaudine",
+    "name:br": "Park Legumaj La Crapaudine",
     "wikidata": "Q127259098",
     "id": "way/30019443"
   },
@@ -9147,6 +9149,7 @@
     "barrier": "wall",
     "leisure": "park",
     "name": "Parc de la Balinière",
+    "name:br": "Park La Balinière",
     "name:etymology:wikidata": "Q105705177",
     "id": "way/32204449"
   },
@@ -9736,6 +9739,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Charles Richard",
+    "name:br": "Skwar Charles Richard",
     "ref:FR:FANTOIR": "441430686F",
     "id": "way/32514028"
   },
@@ -9925,6 +9929,7 @@
     "dog": "leashed",
     "leisure": "park",
     "name": "Parc de la Houssais",
+    "name:br": "Park ar Gelenneg",
     "opening_hours": "24/7",
     "operator": "Mairie de Rezé",
     "id": "way/32760213"
@@ -17083,6 +17088,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Célestin Freinet",
+    "name:br": "Skwar Célestin Freinet",
     "name:etymology:wikidata": "Q313068",
     "id": "way/93361436"
   },
@@ -24413,6 +24419,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de Praud",
+    "name:br": "Park Praud",
     "source": "http://www.geo.nantes.fr",
     "id": "way/166622449"
   },
@@ -27890,6 +27897,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc des Mahaudières Jacques Floch",
+    "name:br": "Park Les Mahaudières Jacques Floch",
     "wikidata": "Q105705070",
     "id": "way/223851732"
   },
@@ -34871,6 +34879,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square de l'Étang",
+    "name:br": "Skwar ar Stank",
     "operator": "Ville de Rezé",
     "id": "way/423009849"
   },
@@ -47609,6 +47618,7 @@
     "addr:street": "Rue du Château d'Eau",
     "leisure": "park",
     "name": "Square Moulin-Guibreteau",
+    "name:br": "Skwar Milin-Guibreteau",
     "id": "way/889482924"
   },
   "geometry": {
@@ -49334,6 +49344,7 @@
     "addr:street": "Impasse des Pélouées",
     "leisure": "park",
     "name": "Bois des Naudières",
+    "name:br": "Koad Les Naudières",
     "opening_hours": "Mo-Su 08:00-12:00, 13:30-17:00",
     "operator": "Mairie de Rezé",
     "source": "https://www.reze.fr/actualite/bois-des-naudieres-un-nouveau-parc-a-decouvrir/;https://www.ouest-france.fr/pays-de-la-loire/reze-44400/reze-aux-naudieres-ce-petit-bois-est-devenu-un-parc-public-758cd470-1f0f-11ed-87e6-ec5e03fce8f7",
@@ -49856,6 +49867,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la cale de Beautour",
+    "name:br": "Park Kal Beautour",
     "id": "way/1233529601"
   },
   "geometry": {
@@ -51290,6 +51302,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Jean-Baptiste Terrien",
+    "name:br": "Skwar Jean-Baptiste Terrien",
     "id": "way/1304268980"
   },
   "geometry": {
@@ -52682,7 +52695,8 @@
   "id": "way/1323627649",
   "properties": {
     "leisure": "park",
-    "name": "square François Bonamy",
+    "name": "Square François Bonamy",
+    "name:br": "Skwar François Bonamy",
     "id": "way/1323627649"
   },
   "geometry": {
@@ -54051,6 +54065,7 @@
     "alt_name": "Parc des Trois-Moulins",
     "leisure": "park",
     "name": "Parc Dian Fossey",
+    "name:br": "Park Dian Fossey",
     "website": "https://jeparticipe.reze.fr/le-parc-des-trois-moulins-inaugure-le-5-octobre/",
     "id": "way/1331403198"
   },
@@ -55865,66 +55880,6 @@
         [
           -1.6888701,
           47.1986264
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1444720492",
-  "properties": {
-    "leisure": "park",
-    "name": "Bois des Naudières",
-    "id": "way/1444720492"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.5401478,
-          47.17782
-        ],
-        [
-          -1.540039,
-          47.1772167
-        ],
-        [
-          -1.5398358,
-          47.1772891
-        ],
-        [
-          -1.5398098,
-          47.1772617
-        ],
-        [
-          -1.5398848,
-          47.1772309
-        ],
-        [
-          -1.539567,
-          47.1769105
-        ],
-        [
-          -1.5379319,
-          47.1775487
-        ],
-        [
-          -1.5391345,
-          47.1777006
-        ],
-        [
-          -1.5391948,
-          47.1775897
-        ],
-        [
-          -1.5393871,
-          47.1776307
-        ],
-        [
-          -1.5401478,
-          47.17782
         ]
       ]
     ]

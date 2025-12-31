@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-30T18:57:57Z",
-    "timestamp_areas_base": "2025-12-30T11:16:16Z",
+    "timestamp_osm_base": "2025-12-31T18:56:45Z",
+    "timestamp_areas_base": "2025-12-31T09:50:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -743,6 +743,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc Potager de la Crapaudine",
+    "name:br": "Park Legumaj La Crapaudine",
     "wikidata": "Q127259098"
   }
 },
@@ -1029,6 +1030,7 @@
     "barrier": "wall",
     "leisure": "park",
     "name": "Parc de la Balinière",
+    "name:br": "Park La Balinière",
     "name:etymology:wikidata": "Q105705177"
   }
 },
@@ -1184,6 +1186,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square Charles Richard",
+    "name:br": "Skwar Charles Richard",
     "ref:FR:FANTOIR": "441430686F"
   }
 },
@@ -1276,6 +1279,7 @@
     "dog": "leashed",
     "leisure": "park",
     "name": "Parc de la Houssais",
+    "name:br": "Park ar Gelenneg",
     "opening_hours": "24/7",
     "operator": "Mairie de Rezé"
   }
@@ -3470,6 +3474,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square Célestin Freinet",
+    "name:br": "Skwar Célestin Freinet",
     "name:etymology:wikidata": "Q313068"
   }
 },
@@ -5542,6 +5547,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Clos Saint-Julien",
+    "name:br": "Park Kloz Sant-Juluan",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
   }
 },
@@ -5738,6 +5744,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc de Praud",
+    "name:br": "Park Praud",
     "source": "http://www.geo.nantes.fr"
   }
 },
@@ -6717,6 +6724,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc des Mahaudières Jacques Floch",
+    "name:br": "Park Les Mahaudières Jacques Floch",
     "wikidata": "Q105705070"
   }
 },
@@ -8712,6 +8720,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square de l'Étang",
+    "name:br": "Skwar ar Stank",
     "operator": "Ville de Rezé"
   }
 },
@@ -12628,7 +12637,8 @@
     "addr:postcode": "44400",
     "addr:street": "Rue du Château d'Eau",
     "leisure": "park",
-    "name": "Square Moulin-Guibreteau"
+    "name": "Square Moulin-Guibreteau",
+    "name:br": "Skwar Milin-Guibreteau"
   }
 },
 {
@@ -13197,6 +13207,7 @@
     "addr:street": "Impasse des Pélouées",
     "leisure": "park",
     "name": "Bois des Naudières",
+    "name:br": "Koad Les Naudières",
     "opening_hours": "Mo-Su 08:00-12:00, 13:30-17:00",
     "operator": "Mairie de Rezé",
     "source": "https://www.reze.fr/actualite/bois-des-naudieres-un-nouveau-parc-a-decouvrir/;https://www.ouest-france.fr/pays-de-la-loire/reze-44400/reze-aux-naudieres-ce-petit-bois-est-devenu-un-parc-public-758cd470-1f0f-11ed-87e6-ec5e03fce8f7"
@@ -13376,7 +13387,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc de la cale de Beautour"
+    "name": "Parc de la cale de Beautour",
+    "name:br": "Park Kal Beautour"
   }
 },
 {
@@ -13837,7 +13849,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Jean-Baptiste Terrien"
+    "name": "Square Jean-Baptiste Terrien",
+    "name:br": "Skwar Jean-Baptiste Terrien"
   }
 },
 {
@@ -14252,7 +14265,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "square François Bonamy"
+    "name": "Square François Bonamy",
+    "name:br": "Skwar François Bonamy"
   }
 },
 {
@@ -14647,6 +14661,7 @@
     "alt_name": "Parc des Trois-Moulins",
     "leisure": "park",
     "name": "Parc Dian Fossey",
+    "name:br": "Park Dian Fossey",
     "website": "https://jeparticipe.reze.fr/le-parc-des-trois-moulins-inaugure-le-5-octobre/"
   }
 },
@@ -15236,27 +15251,6 @@
 },
 {
   "type": "way",
-  "id": 1444720492,
-  "nodes": [
-    3459069102,
-    3459064791,
-    978711165,
-    13256111198,
-    3459064792,
-    3459064779,
-    3459069098,
-    3459069101,
-    3459069099,
-    3459069100,
-    3459069102
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Bois des Naudières"
-  }
-},
-{
-  "type": "way",
   "id": 1451073770,
   "nodes": [
     11176604998,
@@ -15763,7 +15757,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Clos Saint-Julien",
-    "name:br": "Liorzh Kloz Sant-Juluan",
+    "name:br": "Park Kloz Sant-Juluan",
     "source:name:br": "proper translation",
     "type": "multipolygon"
   }
@@ -15871,6 +15865,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc de la Morinière",
+    "name:br": "Park La Morinière",
     "opening_hours": "09:00-18:00",
     "operator": "Ville de Rezé",
     "type": "multipolygon",
