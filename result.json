@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-01T18:57:35Z",
-    "timestamp_areas_base": "2026-01-01T11:54:26Z",
+    "timestamp_osm_base": "2026-01-02T18:56:46Z",
+    "timestamp_areas_base": "2026-01-02T15:35:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -355,6 +355,7 @@
     "barrier": "wall",
     "leisure": "park",
     "name": "Parc de Procé",
+    "name:br": "Park Procé",
     "opening_hours": "08:30-20:00; Oct 23-Nov 17,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/parc-de-proce/",
     "wikidata": "Q3364152",
@@ -1941,6 +1942,7 @@
     "dog": "yes",
     "leisure": "park",
     "name": "Square de la Marseillaise",
+    "name:br": "Skwar ar Marseillaise",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
   }
 },
@@ -4875,7 +4877,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square du 1er Mai"
+    "name": "Square du 1er Mai",
+    "name:br": "Skwar ar 1añ ar viz Mae"
   }
 },
 {
@@ -5644,6 +5647,8 @@
   ],
   "tags": {
     "leisure": "park",
+    "name": "Square Robert-Desnos",
+    "name:br": "Skwar Robert-Desnos",
     "source": "bing"
   }
 },
@@ -7786,8 +7791,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "La Carrière",
-    "name:br": "Ar Vengleuz",
+    "name": "Parc de la Carrière",
+    "name:br": "Park ar Vengleuz",
     "operator": "Mairie de Saint-Herblain"
   }
 },
@@ -8182,6 +8187,7 @@
     "dog": "leashed",
     "leisure": "park",
     "name": "Parc des Oblates",
+    "name:br": "Park an Obladed",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "phone": "+33 2 40 41 90 09",
     "wikidata": "Q16510013",
@@ -13413,6 +13419,7 @@
     "access": "yes",
     "leisure": "park",
     "name": "Square de l'Hôtel de ville",
+    "name:br": "Skwar an Ti-kêr",
     "operator": "Mairie de Saint-Herblain"
   }
 },
