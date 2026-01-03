@@ -55059,6 +55059,7 @@
     "barrier": "fence",
     "leisure": "park",
     "name": "Parc municipal de Basse Indre",
+    "name:br": "Park-kêr Goueled-Antr",
     "opening_hours": "24/7",
     "operator": "Mairie",
     "operator:type": "public",
