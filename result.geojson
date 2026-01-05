@@ -12812,8 +12812,8 @@
           47.2172017
         ],
         [
-          -1.5477908,
-          47.217154
+          -1.5477853,
+          47.2171558
         ],
         [
           -1.547975,
@@ -42466,7 +42466,9 @@
     "name": "Jardin Say",
     "name:br": "Liorzh Say",
     "name:etymology:wikidata": "Q3271322",
+    "opening_hours": "Nov 01-Mar 14 08:30-17:00; Mar 15-Oct 31 08:30-21:30",
     "source:name:br": "proper translation",
+    "website": "https://metropole.nantes.fr/lieu/jardin-say",
     "id": "way/679104171"
   },
   "geometry": {
