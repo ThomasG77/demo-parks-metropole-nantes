@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-16T18:59:34Z",
-    "timestamp_areas_base": "2026-01-16T09:39:46Z",
+    "timestamp_osm_base": "2026-01-17T18:56:01Z",
+    "timestamp_areas_base": "2026-01-17T12:52:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2312,7 +2312,7 @@
     "name": "Square Maurice Schwob",
     "name:br": "Skwar Maurice Schwob",
     "name:etymology:wikidata": "Q766664",
-    "opening_hours": "Jan 15-Mar 19,Oct 23-Nov 17 08:45-18:00; Mar 20-Oct 22 08:45-19:30; Nov 18-Jan 14 08:45-17:00",
+    "opening_hours": "Mar 15-Oct 31 08:30-22:00; Nov 01-Mar 14 08:30-17:15",
     "operator": "Ville de Nantes",
     "operator:type": "government",
     "operator:wikidata": "Q86693245",
@@ -8882,12 +8882,11 @@
     890439237
   ],
   "tags": {
-    "check_date": "2025-03-18",
+    "check_date": "2026-01-17",
     "leisure": "park",
     "name": "Square Commandant Aubin",
     "name:br": "Skwar Komandant Albin",
     "name:etymology:wikidata": "Q110824043",
-    "note": "Le site de la mairie de Nantes indique que le parc est fermé (vérifié le 29/03/2025), mais après une visite sur place, il est bel et bien ouvert et accessible, bien qu'une petite partie soit en travaux.",
     "source:name:br": "proper translation",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/square-commandant-aubin/",
     "wikidata": "Q127271121"
