@@ -54586,7 +54586,8 @@
     "name": "Square de la Grande Garenne",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q86693245",
     "id": "way/1349586529"
   },
   "geometry": {
