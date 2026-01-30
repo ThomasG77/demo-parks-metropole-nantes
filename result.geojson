@@ -48539,42 +48539,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/957835791",
-  "properties": {
-    "leisure": "park",
-    "swimming_pool": "personal",
-    "id": "way/957835791"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6709586,
-          47.1474689
-        ],
-        [
-          -1.6708943,
-          47.147381
-        ],
-        [
-          -1.6708254,
-          47.1474052
-        ],
-        [
-          -1.6708982,
-          47.1474899
-        ],
-        [
-          -1.6709586,
-          47.1474689
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/958981202",
   "properties": {
     "leisure": "park",
