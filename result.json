@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.10 2d4cfc48",
   "osm3s": {
-    "timestamp_osm_base": "2026-02-04T19:26:16Z",
+    "timestamp_osm_base": "2026-02-05T19:25:26Z",
     "timestamp_areas_base": "2026-01-22T23:45:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -7965,12 +7965,14 @@
     975158895
   ],
   "tags": {
+    "addr:city": "Nantes",
     "leisure": "park",
     "name": "Square Jules Bréchoir",
     "name:br": "Skwar Jules Bréchoir",
     "name:etymology:wikidata": "Q72043209",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
     "source:name:br": "proper translation"
   }
 },

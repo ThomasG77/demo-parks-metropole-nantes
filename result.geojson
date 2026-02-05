@@ -32555,12 +32555,14 @@
   "type": "Feature",
   "id": "way/329302214",
   "properties": {
+    "addr:city": "Nantes",
     "leisure": "park",
     "name": "Square Jules Bréchoir",
     "name:br": "Skwar Jules Bréchoir",
     "name:etymology:wikidata": "Q72043209",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
     "source:name:br": "proper translation",
     "id": "way/329302214"
   },
