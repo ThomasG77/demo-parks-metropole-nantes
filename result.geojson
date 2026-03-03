@@ -10533,6 +10533,8 @@
     "name:etymology:wikidata": "Q205783",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
+    "operator:type": "government",
+    "operator:wikidata": "Q86693245",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
     "source:name:br": "proper translation",
     "start_date": "1992-12-05",
