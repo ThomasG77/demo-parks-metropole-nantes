@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-14T19:13:55Z",
-    "timestamp_areas_base": "2026-03-14T09:43:05Z",
+    "timestamp_osm_base": "2026-03-15T19:14:56Z",
+    "timestamp_areas_base": "2026-03-15T13:09:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3907,7 +3907,13 @@
     9969913711,
     1968162560,
     9969913712,
-    1460421225,
+    13648417493,
+    13648417492,
+    13648417494,
+    9809601670,
+    13648417495,
+    13648417497,
+    13648417496,
     9969913672,
     4128359379,
     295788840,
@@ -10018,6 +10024,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc de la Grillonnais",
+    "name:br": "Park La Grillonnais",
     "operator": "Mairie de Basse-Goulaine",
     "operator:type": "public"
   }
@@ -71749,12 +71756,6 @@
 },
 {
   "type": "node",
-  "id": 1460421225,
-  "lat": 47.2426711,
-  "lon": -1.5566560
-},
-{
-  "type": "node",
   "id": 1460421231,
   "lat": 47.2421098,
   "lon": -1.5571310
@@ -71918,14 +71919,20 @@
 {
   "type": "node",
   "id": 4085170835,
-  "lat": 47.2432862,
-  "lon": -1.5568067
+  "lat": 47.2432933,
+  "lon": -1.5568143
 },
 {
   "type": "node",
   "id": 4128359379,
   "lat": 47.2424090,
   "lon": -1.5566803
+},
+{
+  "type": "node",
+  "id": 9809601670,
+  "lat": 47.2427170,
+  "lon": -1.5566606
 },
 {
   "type": "node",
@@ -71954,8 +71961,44 @@
 {
   "type": "node",
   "id": 9969913712,
-  "lat": 47.2430113,
-  "lon": -1.5566394
+  "lat": 47.2429958,
+  "lon": -1.5566622
+},
+{
+  "type": "node",
+  "id": 13648417492,
+  "lat": 47.2428438,
+  "lon": -1.5566706
+},
+{
+  "type": "node",
+  "id": 13648417493,
+  "lat": 47.2428761,
+  "lon": -1.5566585
+},
+{
+  "type": "node",
+  "id": 13648417494,
+  "lat": 47.2427226,
+  "lon": -1.5566691
+},
+{
+  "type": "node",
+  "id": 13648417495,
+  "lat": 47.2427113,
+  "lon": -1.5566518
+},
+{
+  "type": "node",
+  "id": 13648417496,
+  "lat": 47.2426720,
+  "lon": -1.5566455
+},
+{
+  "type": "node",
+  "id": 13648417497,
+  "lat": 47.2426912,
+  "lon": -1.5566491
 },
 {
   "type": "node",
