@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-04-05T19:22:15Z",
-    "timestamp_areas_base": "2026-04-05T07:53:14Z",
+    "timestamp_osm_base": "2026-04-06T19:39:15Z",
+    "timestamp_areas_base": "2026-04-06T04:18:52Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13103,7 +13103,8 @@
   "tags": {
     "leisure": "park",
     "name": "Jardin de la cale Aubin",
-    "name:br": "Liorzh Kal Aubin"
+    "name:br": "Liorzh Kal Aubin",
+    "name:etymology:wikidata": "Q2870608"
   }
 },
 {
@@ -15571,6 +15572,31 @@
   "tags": {
     "leisure": "park",
     "name": "Square Charlotte Salomon"
+  }
+},
+{
+  "type": "way",
+  "id": 1496995703,
+  "nodes": [
+    983729140,
+    983728340,
+    983764507,
+    983835623,
+    983745055,
+    983727884,
+    13711090265,
+    13711090270,
+    13711090269,
+    13711090268,
+    13711090266,
+    13711090267,
+    13711090271,
+    983729140
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Terrasse des platanes",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -40490,27 +40516,105 @@
 },
 {
   "type": "node",
+  "id": 983727884,
+  "lat": 47.1966985,
+  "lon": -1.5700705
+},
+{
+  "type": "node",
+  "id": 983728340,
+  "lat": 47.1967081,
+  "lon": -1.5699404
+},
+{
+  "type": "node",
+  "id": 983729140,
+  "lat": 47.1967110,
+  "lon": -1.5699008
+},
+{
+  "type": "node",
+  "id": 983745055,
+  "lat": 47.1967040,
+  "lon": -1.5699742
+},
+{
+  "type": "node",
+  "id": 983764507,
+  "lat": 47.1966977,
+  "lon": -1.5699385
+},
+{
+  "type": "node",
+  "id": 983835623,
+  "lat": 47.1966960,
+  "lon": -1.5699735
+},
+{
+  "type": "node",
   "id": 9876373532,
-  "lat": 47.1968397,
-  "lon": -1.5698010
+  "lat": 47.1968389,
+  "lon": -1.5697996
 },
 {
   "type": "node",
   "id": 9876373533,
-  "lat": 47.1968673,
-  "lon": -1.5693013
+  "lat": 47.1968683,
+  "lon": -1.5693000
 },
 {
   "type": "node",
   "id": 9876373534,
-  "lat": 47.1961588,
-  "lon": -1.5692165
+  "lat": 47.1961296,
+  "lon": -1.5692057
 },
 {
   "type": "node",
   "id": 9876373535,
-  "lat": 47.1961312,
-  "lon": -1.5697163
+  "lat": 47.1961001,
+  "lon": -1.5697052
+},
+{
+  "type": "node",
+  "id": 13711090265,
+  "lat": 47.1966696,
+  "lon": -1.5704677
+},
+{
+  "type": "node",
+  "id": 13711090266,
+  "lat": 47.1968419,
+  "lon": -1.5705389
+},
+{
+  "type": "node",
+  "id": 13711090267,
+  "lat": 47.1968818,
+  "lon": -1.5699238
+},
+{
+  "type": "node",
+  "id": 13711090268,
+  "lat": 47.1968086,
+  "lon": -1.5705337
+},
+{
+  "type": "node",
+  "id": 13711090269,
+  "lat": 47.1967946,
+  "lon": -1.5705185
+},
+{
+  "type": "node",
+  "id": 13711090270,
+  "lat": 47.1967839,
+  "lon": -1.5704879
+},
+{
+  "type": "node",
+  "id": 13711090271,
+  "lat": 47.1967237,
+  "lon": -1.5699025
 },
 {
   "type": "node",
