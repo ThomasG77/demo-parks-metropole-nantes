@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-04-21T19:49:45Z",
-    "timestamp_areas_base": "2026-04-21T10:39:59Z",
+    "timestamp_osm_base": "2026-04-22T19:50:46Z",
+    "timestamp_areas_base": "2026-04-22T15:02:25Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8320,8 +8320,7 @@
     "alt_name": "Parc du Loiry",
     "leisure": "park",
     "name": "Base de loisir du Loiry",
-    "operator:wikidata": "Q115918479",
-    "wikidata": "Q120216336"
+    "operator:wikidata": "Q115918479"
   }
 },
 {
