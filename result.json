@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-04-22T19:50:46Z",
-    "timestamp_areas_base": "2026-04-22T15:02:25Z",
+    "timestamp_osm_base": "2026-04-23T19:53:06Z",
+    "timestamp_areas_base": "2026-04-23T15:40:52Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14591,13 +14591,18 @@
   "id": 1331403198,
   "nodes": [
     12318854370,
+    13755760365,
     12318854386,
     12318854384,
     12318854391,
+    983792434,
     983851058,
     983830215,
+    13755760366,
     12318854392,
     12318854387,
+    2439842730,
+    2439842708,
     2439842702,
     12318854388,
     12318854389,
@@ -14614,7 +14619,8 @@
     "leisure": "park",
     "name": "Parc Dian Fossey",
     "name:br": "Park Dian Fossey",
-    "website": "https://jeparticipe.reze.fr/le-parc-des-trois-moulins-inaugure-le-5-octobre/"
+    "name:etymology:wikidata": "Q234224",
+    "wikidata": "Q134320766"
   }
 },
 {
@@ -41229,6 +41235,12 @@
 },
 {
   "type": "node",
+  "id": 983792434,
+  "lat": 47.1779878,
+  "lon": -1.5446292
+},
+{
+  "type": "node",
   "id": 983830215,
   "lat": 47.1780040,
   "lon": -1.5443641
@@ -41244,6 +41256,18 @@
   "id": 2439842702,
   "lat": 47.1778010,
   "lon": -1.5447570
+},
+{
+  "type": "node",
+  "id": 2439842708,
+  "lat": 47.1778150,
+  "lon": -1.5447470
+},
+{
+  "type": "node",
+  "id": 2439842730,
+  "lat": 47.1778430,
+  "lon": -1.5447250
 },
 {
   "type": "node",
@@ -41326,14 +41350,26 @@
 {
   "type": "node",
   "id": 12318854391,
-  "lat": 47.1780022,
-  "lon": -1.5446375
+  "lat": 47.1780046,
+  "lon": -1.5446382
 },
 {
   "type": "node",
   "id": 12318854392,
   "lat": 47.1778990,
   "lon": -1.5443345
+},
+{
+  "type": "node",
+  "id": 13755760365,
+  "lat": 47.1783120,
+  "lon": -1.5446306
+},
+{
+  "type": "node",
+  "id": 13755760366,
+  "lat": 47.1779694,
+  "lon": -1.5443544
 },
 {
   "type": "node",
