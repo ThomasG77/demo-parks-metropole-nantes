@@ -22608,6 +22608,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Plessis Tison",
+    "name:br": "Park Kenkiz Tison",
     "opening_hours": "Nov 1-Mar 14 08:30-18:00; Mar 15-Oct 31 08:30-22:00",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "wikidata": "Q16509994",
@@ -57334,6 +57335,47 @@
         [
           -1.5699008,
           47.196711
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1511133085",
+  "properties": {
+    "leisure": "park",
+    "name": "Square Félix Faure",
+    "name:br": "Skwar Félix Faure",
+    "id": "way/1511133085"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.5686961,
+          47.2310035
+        ],
+        [
+          -1.5687476,
+          47.2308629
+        ],
+        [
+          -1.5681707,
+          47.2307647
+        ],
+        [
+          -1.5683345,
+          47.2309423
+        ],
+        [
+          -1.5685635,
+          47.2309811
+        ],
+        [
+          -1.5686961,
+          47.2310035
         ]
       ]
     ]

@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-09T19:43:15Z",
-    "timestamp_areas_base": "2026-05-09T17:09:00Z",
+    "timestamp_osm_base": "2026-05-10T19:45:02Z",
+    "timestamp_areas_base": "2026-05-10T16:40:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5014,6 +5014,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Plessis Tison",
+    "name:br": "Park Kenkiz Tison",
     "opening_hours": "Nov 1-Mar 14 08:30-18:00; Mar 15-Oct 31 08:30-22:00",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "wikidata": "Q16509994"
@@ -15602,6 +15603,23 @@
     "leisure": "park",
     "name": "Terrasse des platanes",
     "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 1511133085,
+  "nodes": [
+    991986997,
+    991996241,
+    13812265835,
+    13812265836,
+    13812265837,
+    991986997
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Square Félix Faure",
+    "name:br": "Skwar Félix Faure"
   }
 },
 {
@@ -70680,6 +70698,36 @@
   "id": 623551931,
   "lat": 47.2347373,
   "lon": -1.5715742
+},
+{
+  "type": "node",
+  "id": 991986997,
+  "lat": 47.2310035,
+  "lon": -1.5686961
+},
+{
+  "type": "node",
+  "id": 991996241,
+  "lat": 47.2309811,
+  "lon": -1.5685635
+},
+{
+  "type": "node",
+  "id": 13812265835,
+  "lat": 47.2309423,
+  "lon": -1.5683345
+},
+{
+  "type": "node",
+  "id": 13812265836,
+  "lat": 47.2307647,
+  "lon": -1.5681707
+},
+{
+  "type": "node",
+  "id": 13812265837,
+  "lat": 47.2308629,
+  "lon": -1.5687476
 },
 {
   "type": "node",
