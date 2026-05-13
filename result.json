@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-12T20:01:44Z",
-    "timestamp_areas_base": "2026-05-12T09:04:00Z",
+    "timestamp_osm_base": "2026-05-13T20:20:30Z",
+    "timestamp_areas_base": "2026-05-13T05:19:32Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2157,6 +2157,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square du Bois de la Musse",
+    "name:br": "Skwar Koad La Musse",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
   }
 },
@@ -2472,6 +2473,7 @@
   "tags": {
     "leisure": "park",
     "name": "Jardin des Nectars",
+    "name:br": "Liorzh an Nektar",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "wikidata": "Q127271286"
   }
@@ -2893,6 +2895,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square du Théâtre de Verdure",
+    "name:br": "Skwar C'hoariva ar C'hlasvez",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
   }
 },

@@ -13104,6 +13104,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Bois de la Musse",
+    "name:br": "Skwar Koad La Musse",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
     "id": "way/45461647"
   },
@@ -14235,6 +14236,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin des Nectars",
+    "name:br": "Liorzh an Nektar",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "wikidata": "Q127271286",
     "id": "way/48541111"
@@ -15510,6 +15512,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square du Théâtre de Verdure",
+    "name:br": "Skwar C'hoariva ar C'hlasvez",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "id": "way/51863316"
   },
