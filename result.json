@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-15T20:05:43Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-05-16T19:47:30Z",
+    "timestamp_areas_base": "2026-05-16T11:39:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4247,6 +4247,7 @@
   "tags": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:br": "Traoñienn ar C'hent",
     "name:etymology:wikidata": "Q3554067",
     "source": "bing"
   }
@@ -7333,6 +7334,7 @@
     10948589198,
     2645687823,
     2645687825,
+    13834506645,
     2645687805,
     2645687827,
     516920056,
@@ -10248,6 +10250,7 @@
   "tags": {
     "leisure": "park",
     "name": "Square René Guy Cadou",
+    "name:br": "Skwar René Guy Cadou",
     "name:etymology:wikidata": "Q3426323"
   }
 },
@@ -12186,7 +12189,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Promenade des Renards"
+    "name": "Promenade des Renards",
+    "name:br": "Pourmenadenn al Lern"
   }
 },
 {
@@ -12258,7 +12262,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Square Proust Bergson"
+    "name": "Square Proust Bergson",
+    "name:br": "Skwar Proust Bergson"
   }
 },
 {
@@ -13705,6 +13710,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Chêne des Anglais",
+    "name:br": "Park Dervenn ar Saozon",
     "wikidata": "Q127278443"
   }
 },
@@ -13751,6 +13757,7 @@
   "tags": {
     "leisure": "park",
     "name": "Parc du Bout des Pavés",
+    "name:br": "Park Penn ar Pavezioù",
     "wikidata": "Q127278446"
   }
 },
@@ -16116,7 +16123,7 @@
   "type": "node",
   "id": 2645687805,
   "lat": 47.1335688,
-  "lon": -1.7325261
+  "lon": -1.7325209
 },
 {
   "type": "node",
@@ -16165,6 +16172,12 @@
   "id": 11236095333,
   "lat": 47.1323129,
   "lon": -1.7337954
+},
+{
+  "type": "node",
+  "id": 13834506645,
+  "lat": 47.1335815,
+  "lon": -1.7325156
 },
 {
   "type": "node",

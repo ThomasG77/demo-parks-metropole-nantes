@@ -19139,6 +19139,7 @@
   "properties": {
     "leisure": "park",
     "name": "Vallée du Cens",
+    "name:br": "Traoñienn ar C'hent",
     "name:etymology:wikidata": "Q3554067",
     "source": "bing",
     "id": "way/132752783"
@@ -30516,8 +30517,12 @@
           47.1332457
         ],
         [
-          -1.7325261,
+          -1.7325209,
           47.1335688
+        ],
+        [
+          -1.7325156,
+          47.1335815
         ],
         [
           -1.7324446,
@@ -39911,6 +39916,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square René Guy Cadou",
+    "name:br": "Skwar René Guy Cadou",
     "name:etymology:wikidata": "Q3426323",
     "id": "way/554487153"
   },
@@ -46206,6 +46212,7 @@
   "properties": {
     "leisure": "park",
     "name": "Promenade des Renards",
+    "name:br": "Pourmenadenn al Lern",
     "id": "way/797045649"
   },
   "geometry": {
@@ -46595,6 +46602,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square Proust Bergson",
+    "name:br": "Skwar Proust Bergson",
     "id": "way/797045651"
   },
   "geometry": {
@@ -50933,6 +50941,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Chêne des Anglais",
+    "name:br": "Park Dervenn ar Saozon",
     "wikidata": "Q127278443",
     "id": "way/1300474460"
   },
@@ -51114,6 +51123,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Bout des Pavés",
+    "name:br": "Park Penn ar Pavezioù",
     "wikidata": "Q127278446",
     "id": "way/1300475360"
   },
