@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-18T20:17:01Z",
+    "timestamp_osm_base": "2026-05-19T20:18:30Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -10736,7 +10736,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Parc du Jamet"
+    "name": "Parc du Jamet",
+    "name:br": "Park Jamet"
   }
 },
 {
@@ -12863,7 +12864,8 @@
   "tags": {
     "access": "private",
     "leisure": "park",
-    "name": "Parc de Chavagnes"
+    "name": "Parc de Chavagnes",
+    "name:br": "Park Chavagnes"
   }
 },
 {
@@ -15482,6 +15484,7 @@
   "tags": {
     "leisure": "park",
     "name": "Cours Hermeland",
+    "name:br": "Bali Ervlan",
     "name:etymology:wikidata": "Q3134198"
   }
 },

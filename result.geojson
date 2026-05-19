@@ -41403,6 +41403,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Jamet",
+    "name:br": "Park Jamet",
     "id": "way/603511611"
   },
   "geometry": {
@@ -48407,6 +48408,7 @@
     "access": "private",
     "leisure": "park",
     "name": "Parc de Chavagnes",
+    "name:br": "Park Chavagnes",
     "id": "way/949836371"
   },
   "geometry": {
@@ -56442,6 +56444,7 @@
   "properties": {
     "leisure": "park",
     "name": "Cours Hermeland",
+    "name:br": "Bali Ervlan",
     "name:etymology:wikidata": "Q3134198",
     "id": "way/1454007633"
   },
