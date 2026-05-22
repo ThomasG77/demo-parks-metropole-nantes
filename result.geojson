@@ -51812,6 +51812,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin de la Persagotière",
+    "name:br": "Liorz La Persagotière",
     "website": "https://nature.metropole.nantes.fr/parcs-jardins/jardin-de-la-persagotiere/",
     "id": "way/1315995117"
   },
