@@ -6329,6 +6329,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc du Grand Blottereau",
+    "name:br": "Park Grand-Blottereau",
     "opening_hours": "08:45-19:30; Oct 23-Nov 17,Jan 15-Mar 19 08:45-18:00; Nov 18-Jan 14 08:45-17:00",
     "operator": "Ville de Nantes",
     "operator:type": "government",
@@ -40378,6 +40379,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square de la Pilotière",
+    "name:br": "Skwar La Pilotière",
     "opening_hours": "24/7",
     "id": "way/560754248"
   },
@@ -54503,6 +54505,7 @@
   "properties": {
     "leisure": "park",
     "name": "Square de la Grande Garenne",
+    "name:br": "Skwar ar Waremm Vras",
     "opening_hours": "24/7",
     "operator": "Ville de Nantes",
     "operator:type": "government",
