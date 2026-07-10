@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-09T20:26:15Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-07-10T20:04:31Z",
+    "timestamp_areas_base": "2026-07-09T23:12:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -16260,7 +16260,7 @@
     "landuse": "recreation_ground",
     "leisure": "park",
     "name": "Espace de plein air de Port-Barbe",
-    "opening_hours": "Mo,Tu,Th,Fr 09:00-12:30,14:00-17:00; We 09:00-12:30,14:00-18:30; SH Mo,Tu,We,Fr 08:15-12:00,14:00-18:00; SH Th 08:15-12:00; ",
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-12:30,14:00-17:00; We 09:00-12:30,14:00-18:30; SH Mo,Tu,We,Fr 08:15-12:00,14:00-18:00; SH Th 08:15-12:00",
     "phone": "+33 2 40 72 53 29",
     "type": "multipolygon",
     "website": "https://www.accoord.fr/lieux/port-barbe/"
