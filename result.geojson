@@ -6752,7 +6752,7 @@
     "leisure": "park",
     "name": "Parc de la Gaudinière",
     "name:br": "Park La Gaudinière",
-    "opening_hours": "08:30-20:00; Oct 23-Nov 17:00,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
+    "opening_hours": "08:30-20:00; Oct 23-Nov 17,Jan 15-Mar 19 08:30-18:30; Nov 18-Jan 14 08:30-17:30",
     "operator": "Ville de Nantes",
     "operator:type": "government",
     "operator:wikidata": "Q86693245",
@@ -42984,6 +42984,10 @@
         [
           -1.677473,
           47.1524141
+        ],
+        [
+          -1.6778815,
+          47.152513
         ],
         [
           -1.6783313,
