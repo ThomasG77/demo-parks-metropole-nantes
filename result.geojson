@@ -14473,162 +14473,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/48992976",
-  "properties": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "id": "way/48992976"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6469798,
-          47.2155494
-        ],
-        [
-          -1.6472253,
-          47.2152841
-        ],
-        [
-          -1.6463691,
-          47.2149433
-        ],
-        [
-          -1.6461452,
-          47.2152217
-        ],
-        [
-          -1.6469798,
-          47.2155494
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/48992977",
-  "properties": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "id": "way/48992977"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6459879,
-          47.2151837
-        ],
-        [
-          -1.6462029,
-          47.214922
-        ],
-        [
-          -1.6450998,
-          47.2145364
-        ],
-        [
-          -1.6448983,
-          47.2148162
-        ],
-        [
-          -1.6459879,
-          47.2151837
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/48992978",
-  "properties": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "id": "way/48992978"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6446835,
-          47.2149042
-        ],
-        [
-          -1.644844,
-          47.2146843
-        ],
-        [
-          -1.6441423,
-          47.214448
-        ],
-        [
-          -1.6439255,
-          47.2146503
-        ],
-        [
-          -1.6446835,
-          47.2149042
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/48992979",
-  "properties": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "id": "way/48992979"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -1.6437466,
-          47.2146551
-        ],
-        [
-          -1.6439408,
-          47.2144816
-        ],
-        [
-          -1.6430893,
-          47.2141815
-        ],
-        [
-          -1.6429127,
-          47.214374
-        ],
-        [
-          -1.6437466,
-          47.2146551
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/49157631",
   "properties": {
     "leisure": "park",
@@ -29123,8 +28967,8 @@
           47.2262132
         ],
         [
-          -1.5216815,
-          47.2262425
+          -1.521685,
+          47.2262543
         ],
         [
           -1.5213884,
@@ -57861,6 +57705,296 @@
         [
           -1.572729,
           47.2005469
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992976",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "operator": "Ville de Saint-Herblain",
+    "operator:type": "public",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992976"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6469798,
+          47.2155494
+        ],
+        [
+          -1.6472253,
+          47.2152841
+        ],
+        [
+          -1.6463691,
+          47.2149433
+        ],
+        [
+          -1.6461452,
+          47.2152217
+        ],
+        [
+          -1.6469798,
+          47.2155494
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992977",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "operator": "Ville de Saint-Herblain",
+    "operator:type": "public",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992977"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6459879,
+          47.2151837
+        ],
+        [
+          -1.6462029,
+          47.214922
+        ],
+        [
+          -1.6450998,
+          47.2145364
+        ],
+        [
+          -1.6448983,
+          47.2148162
+        ],
+        [
+          -1.6459879,
+          47.2151837
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992529",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992529"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6422659,
+          47.2138516
+        ],
+        [
+          -1.641885,
+          47.2138959
+        ],
+        [
+          -1.6418259,
+          47.2136884
+        ],
+        [
+          -1.6417024,
+          47.2137008
+        ],
+        [
+          -1.6416998,
+          47.2136828
+        ],
+        [
+          -1.6412395,
+          47.2137397
+        ],
+        [
+          -1.6410559,
+          47.2136888
+        ],
+        [
+          -1.6410091,
+          47.2135194
+        ],
+        [
+          -1.6408873,
+          47.2135335
+        ],
+        [
+          -1.640736,
+          47.2136999
+        ],
+        [
+          -1.640853,
+          47.2141525
+        ],
+        [
+          -1.6412978,
+          47.2141017
+        ],
+        [
+          -1.6415892,
+          47.2141938
+        ],
+        [
+          -1.6416676,
+          47.2140813
+        ],
+        [
+          -1.6419202,
+          47.2141567
+        ],
+        [
+          -1.6420159,
+          47.2139962
+        ],
+        [
+          -1.6428507,
+          47.2142387
+        ],
+        [
+          -1.6429104,
+          47.214179
+        ],
+        [
+          -1.6423021,
+          47.2140003
+        ],
+        [
+          -1.6422659,
+          47.2138516
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992544",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992544"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6405341,
+          47.213701
+        ],
+        [
+          -1.6406583,
+          47.2135748
+        ],
+        [
+          -1.6399686,
+          47.2133779
+        ],
+        [
+          -1.6398858,
+          47.2135137
+        ],
+        [
+          -1.6405341,
+          47.213701
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992978",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "operator": "Ville de Saint-Herblain",
+    "operator:type": "public",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992978"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6446835,
+          47.2149042
+        ],
+        [
+          -1.644844,
+          47.2146843
+        ],
+        [
+          -1.6441423,
+          47.214448
+        ],
+        [
+          -1.6439255,
+          47.2146503
+        ],
+        [
+          -1.6446835,
+          47.2149042
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48992979",
+  "properties": {
+    "leisure": "park",
+    "name": "Les Noëlles Tesseries",
+    "operator": "Ville de Saint-Herblain",
+    "operator:type": "public",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "id": "way/48992979"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.6437466,
+          47.2146551
+        ],
+        [
+          -1.6439408,
+          47.2144816
+        ],
+        [
+          -1.6430893,
+          47.2141815
+        ],
+        [
+          -1.6429127,
+          47.214374
+        ],
+        [
+          -1.6437466,
+          47.2146551
         ]
       ]
     ]
