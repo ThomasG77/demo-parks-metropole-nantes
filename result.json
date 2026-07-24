@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-23T19:58:30Z",
-    "timestamp_areas_base": "2026-07-22T12:48:09Z",
+    "timestamp_osm_base": "2026-07-24T20:01:26Z",
+    "timestamp_areas_base": "2026-07-24T01:16:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2543,125 +2543,6 @@
   ],
   "tags": {
     "leisure": "park",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992529,
-  "nodes": [
-    621771539,
-    621771540,
-    621771523,
-    621771524,
-    621771531,
-    621771532,
-    621771533,
-    621771535,
-    621771536,
-    621771551,
-    621771508,
-    621771509,
-    621771511,
-    621771512,
-    621771487,
-    621771488,
-    621771489,
-    621771491,
-    621771537,
-    621771539
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992544,
-  "nodes": [
-    621771513,
-    621771515,
-    621771516,
-    621771517,
-    621771513
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992976,
-  "nodes": [
-    621787498,
-    621787499,
-    621787495,
-    621787497,
-    621787498
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992977,
-  "nodes": [
-    621787500,
-    621787501,
-    621787502,
-    621787496,
-    621787500
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992978,
-  "nodes": [
-    621787503,
-    621787504,
-    621787505,
-    621787506,
-    621787503
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 48992979,
-  "nodes": [
-    621787510,
-    621787508,
-    621787509,
-    621787507,
-    621787510
-  ],
-  "tags": {
-    "leisure": "park",
-    "name": "Les Noëlles Tesseries",
-    "operator": "Ville de Saint-Herblain",
-    "operator:type": "public",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
   }
 },
@@ -16337,33 +16218,33 @@
   "members": [
     {
       "type": "way",
-      "ref": 48992544,
-      "role": "inner"
-    },
-    {
-      "type": "way",
       "ref": 48992529,
-      "role": "inner"
+      "role": "outer"
     },
     {
       "type": "way",
       "ref": 48992979,
-      "role": "inner"
+      "role": "outer"
     },
     {
       "type": "way",
       "ref": 48992978,
-      "role": "inner"
+      "role": "outer"
     },
     {
       "type": "way",
       "ref": 48992977,
-      "role": "inner"
+      "role": "outer"
     },
     {
       "type": "way",
       "ref": 48992976,
-      "role": "inner"
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 48992544,
+      "role": "outer"
     }
   ],
   "tags": {
