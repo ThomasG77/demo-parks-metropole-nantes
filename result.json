@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-29T20:00:36Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-07-30T20:04:43Z",
+    "timestamp_areas_base": "2026-07-30T00:32:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7273,7 +7273,7 @@
   "id": 259218470,
   "nodes": [
     516920055,
-    10948589198,
+    14060320034,
     2645687833,
     2645687823,
     870554495,
@@ -9564,7 +9564,9 @@
     5159366288
   ],
   "tags": {
-    "leisure": "park"
+    "leisure": "park",
+    "name": "Parc de la Coulée Verte",
+    "wikidata": "Q107352756"
   }
 },
 {
@@ -9703,7 +9705,8 @@
   "tags": {
     "leisure": "park",
     "name": "Parc Hippolyte-Derouet",
-    "name:br": "Park Hippolyte-Derouet"
+    "name:br": "Park Hippolyte-Derouet",
+    "wikidata": "Q105737248"
   }
 },
 {
@@ -15973,7 +15976,7 @@
     "name:wikidata": "Q472540",
     "name:wikipedia": "fr:Pierre Cambronne",
     "old_name": "Cours de la République",
-    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:00",
+    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:15",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
     "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
@@ -16331,12 +16334,6 @@
 },
 {
   "type": "node",
-  "id": 10948589198,
-  "lat": 47.1333192,
-  "lon": -1.7334302
-},
-{
-  "type": "node",
   "id": 13834506645,
   "lat": 47.1336683,
   "lon": -1.7325217
@@ -16358,6 +16355,12 @@
   "id": 14028651292,
   "lat": 47.1323129,
   "lon": -1.7337954
+},
+{
+  "type": "node",
+  "id": 14060320034,
+  "lat": 47.1333192,
+  "lon": -1.7334302
 },
 {
   "type": "node",
@@ -44964,8 +44967,8 @@
 {
   "type": "node",
   "id": 534805718,
-  "lat": 47.1612319,
-  "lon": -1.4779282
+  "lat": 47.1612474,
+  "lon": -1.4779739
 },
 {
   "type": "node",
@@ -45156,8 +45159,8 @@
 {
   "type": "node",
   "id": 549369570,
-  "lat": 47.1612511,
-  "lon": -1.4779907
+  "lat": 47.1612770,
+  "lon": -1.4780957
 },
 {
   "type": "node",

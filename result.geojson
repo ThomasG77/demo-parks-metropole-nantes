@@ -3345,7 +3345,7 @@
     "name:wikidata": "Q472540",
     "name:wikipedia": "fr:Pierre Cambronne",
     "old_name": "Cours de la République",
-    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:00",
+    "opening_hours": "08:30-21:30; Nov 01-Mar 14: 08:30-17:15",
     "operator": "Service des Espaces Verts et de l'Environnement de Nantes",
     "ref:FR:FANTOIR": "441091372",
     "source:name:br": "proper translation",
@@ -33900,12 +33900,12 @@
           47.1613432
         ],
         [
-          -1.4779907,
-          47.1612511
+          -1.4780957,
+          47.161277
         ],
         [
-          -1.4779282,
-          47.1612319
+          -1.4779739,
+          47.1612474
         ],
         [
           -1.4776071,
@@ -37759,6 +37759,8 @@
   "id": "way/531498177",
   "properties": {
     "leisure": "park",
+    "name": "Parc de la Coulée Verte",
+    "wikidata": "Q107352756",
     "id": "way/531498177"
   },
   "geometry": {
@@ -38349,6 +38351,7 @@
     "leisure": "park",
     "name": "Parc Hippolyte-Derouet",
     "name:br": "Park Hippolyte-Derouet",
+    "wikidata": "Q105737248",
     "id": "way/531745629"
   },
   "geometry": {
