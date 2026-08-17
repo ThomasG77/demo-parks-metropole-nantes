@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-16T19:02:25Z",
-    "timestamp_areas_base": "2026-08-15T16:48:19Z",
+    "timestamp_osm_base": "2026-08-17T19:14:03Z",
+    "timestamp_areas_base": "2026-08-17T02:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -15676,7 +15676,8 @@
   ],
   "tags": {
     "leisure": "park",
-    "name": "Jardins de l'Estuaire"
+    "name": "Jardins de l'Estuaire",
+    "name:br": "Liorzhoù an Aber"
   }
 },
 {
@@ -15751,6 +15752,7 @@
   "tags": {
     "leisure": "park",
     "name": "Jardin du Rail",
+    "name:br": "Liorzh an Hent-houarn",
     "not:name": "Jardin de l'Estuaire"
   }
 },

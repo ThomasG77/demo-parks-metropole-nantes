@@ -57710,6 +57710,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardins de l'Estuaire",
+    "name:br": "Liorzhoù an Aber",
     "id": "way/1524031004"
   },
   "geometry": {
@@ -57798,6 +57799,7 @@
   "properties": {
     "leisure": "park",
     "name": "Jardin du Rail",
+    "name:br": "Liorzh an Hent-houarn",
     "not:name": "Jardin de l'Estuaire",
     "id": "way/1524781887"
   },
