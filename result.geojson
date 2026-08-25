@@ -10862,6 +10862,7 @@
     "leisure": "park",
     "name": "Parc du Charbonneau",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "survey:date": "2026-08-24",
     "id": "way/38957184"
   },
   "geometry": {
