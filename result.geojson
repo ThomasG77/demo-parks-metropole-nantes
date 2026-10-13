@@ -14787,6 +14787,7 @@
   "id": "way/49158883",
   "properties": {
     "leisure": "park",
+    "name": "Square Washington",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "id": "way/49158883"
   },
