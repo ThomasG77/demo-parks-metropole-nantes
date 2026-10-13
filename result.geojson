@@ -35577,6 +35577,7 @@
   "properties": {
     "leisure": "park",
     "name": "Parc de la Savèze",
+    "name:br": "Park ar Savèze",
     "id": "way/445174987"
   },
   "geometry": {
