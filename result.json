@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-03T01:17:28Z",
-    "timestamp_areas_base": "2026-11-02T22:46:21Z",
+    "timestamp_osm_base": "2026-11-03T23:41:36Z",
+    "timestamp_areas_base": "2026-11-03T21:23:17Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -551,7 +551,6 @@
     4911028964,
     5445178852,
     315322252,
-    5445178832,
     4911029387,
     1756230936,
     4909763902,
@@ -12468,7 +12467,7 @@
     "name:br": "Liorzh Hubertine-Auclert",
     "name:etymology:wikidata": "Q448953",
     "name:fr": "Jardin Hubertine-Auclert",
-    "opening_hours": "Apr 01-Sep 30 09:00-20:00; Oct 01-31 Mar 09:00-18:30",
+    "opening_hours": "Apr -Sep  09:00-20:00; Oct - Mar 09:00-18:30",
     "wikidata": "Q105704716"
   }
 },
@@ -64264,8 +64263,8 @@
 {
   "type": "node",
   "id": 315322247,
-  "lat": 47.2183520,
-  "lon": -1.5632564
+  "lat": 47.2183547,
+  "lon": -1.5632604
 },
 {
   "type": "node",
@@ -64282,8 +64281,8 @@
 {
   "type": "node",
   "id": 315322252,
-  "lat": 47.2177578,
-  "lon": -1.5628534
+  "lat": 47.2177575,
+  "lon": -1.5628531
 },
 {
   "type": "node",
@@ -64620,12 +64619,6 @@
   "id": 5445178831,
   "lat": 47.2177840,
   "lon": -1.5626531
-},
-{
-  "type": "node",
-  "id": 5445178832,
-  "lat": 47.2177571,
-  "lon": -1.5628527
 },
 {
   "type": "node",
